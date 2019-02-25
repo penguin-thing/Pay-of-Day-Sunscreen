@@ -1,0 +1,940 @@
+﻿Log file open, 09/20/18 08:21:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TestingThings
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.411980
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.595s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.034s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.20-12.21.41:072][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.20-12.21.41:073][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.20-12.21.41:189][  0]LogHAL: Display: Platform has ~ 8 GB [8547778560 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.20-12.21.41:189][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.20-12.21.41:189][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.20-12.21.41:210][  0]LogInit: Computer: COMPUTER2
+[2018.09.20-12.21.41:210][  0]LogInit: User: Computer2
+[2018.09.20-12.21.41:210][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.20-12.21.41:210][  0]LogInit: High frequency timer resolution =3.328122 MHz
+[2018.09.20-12.21.41:210][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.09.20-12.21.41:210][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.20-12.21.41:210][  0]LogMemory: Process Physical Memory: 102.91 MB used, 102.91 MB peak
+[2018.09.20-12.21.41:210][  0]LogMemory: Process Virtual Memory: 92.45 MB used, 92.45 MB peak
+[2018.09.20-12.21.41:210][  0]LogMemory: Physical Memory: 3247.19 MB used,  4904.61 MB free, 8151.80 MB total
+[2018.09.20-12.21.41:210][  0]LogMemory: Virtual Memory: 4653.70 MB used,  4904.61 MB free, 134217728.00 MB total
+[2018.09.20-12.21.43:519][  0]LogInit: Using OS detected language (en-US).
+[2018.09.20-12.21.43:519][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.20-12.21.43:520][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.20-12.21.44:829][  0]LogStreaming: Display: Took  1.310s to InitEngineTextLocalization.
+[2018.09.20-12.21.44:829][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.20-12.21.45:855][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.20-12.21.45:855][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.20-12.21.53:355][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.20-12.21.53:355][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.20-12.21.53:559][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.09.20-12.21.53:559][  0]LogD3D11RHI:       8096/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.20-12.21.53:604][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.20-12.21.53:604][  0]LogD3D11RHI:       0/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.20-12.21.53:604][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.20-12.21.53:609][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.20-12.21.53:609][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.20-12.21.53:609][  0]LogWindows: EnumDisplayDevices:
+[2018.09.20-12.21.53:609][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.09.20-12.21.53:610][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.20-12.21.53:610][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.20-12.21.53:610][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.20-12.21.53:610][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.20-12.21.53:610][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.09.20-12.21.53:610][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.09.20-12.21.53:610][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.09.20-12.21.53:610][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.09.20-12.21.53:783][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.20-12.21.54:232][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.09.20-12.21.54:286][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/Shaders/WorkingDirectory/9444/).
+[2018.09.20-12.21.54:287][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Computer 2/AppData/Local/Temp/UnrealShaderWorkingDir/A62B5AF549BCB4B9D12EC0A6EFB872F2/'.
+[2018.09.20-12.21.56:771][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.20-12.21.56:814][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.20-12.21.56:849][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.20-12.21.56:874][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.20-12.21.56:925][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.20-12.21.56:954][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.20-12.21.56:995][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.20-12.21.57:111][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.20-12.21.57:155][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:278][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-12.21.57:314][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.20-12.21.57:522][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.20-12.21.57:522][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.20-12.21.57:572][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.20-12.21.57:572][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.20-12.21.57:601][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.20-12.21.57:637][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.20-12.21.57:697][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.20-12.21.57:740][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.20-12.21.57:770][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.20-12.21.57:770][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.20-12.21.59:997][  0]LogXGEController: Cleaning working directory: C:/Users/Computer 2/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.20-12.21.59:997][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.20-12.21.59:997][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.20-12.21.59:997][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.20-12.22.06:879][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.20-12.22.07:604][  0]LogDerivedDataCache: Loaded boot cache 0.72s 71MB C:/Users/Computer 2/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.20-12.22.07:605][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Computer 2/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.20-12.22.07:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.20-12.22.07:605][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.20-12.22.07:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.20-12.22.07:605][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.20-12.22.07:623][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.20-12.22.07:641][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Computer 2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.20-12.22.07:641][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.20-12.22.07:641][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.20-12.22.07:657][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.20-12.22.07:658][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.20-12.22.07:711][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.20-12.22.09:629][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.09.20-12.22.09:950][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.20-12.22.11:824][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.20-12.22.11:910][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.20-12.22.11:910][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.20-12.22.11:910][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.20-12.22.11:910][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.20-12.22.12:079][  0]LogNetVersion: TestingThings 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1511552721)
+[2018.09.20-12.22.16:003][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/5a627529.bin
+[2018.09.20-12.22.16:022][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1d5167fa.bin
+[2018.09.20-12.22.16:030][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/94c5d5a7.bin
+[2018.09.20-12.22.16:037][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/29c3675e.bin
+[2018.09.20-12.22.16:045][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/26b732ab.bin
+[2018.09.20-12.22.16:049][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/30e2b9c2.bin
+[2018.09.20-12.22.16:055][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/50a675f9.bin
+[2018.09.20-12.22.16:062][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/8e9331e2.bin
+[2018.09.20-12.22.16:079][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/12424d50.bin
+[2018.09.20-12.22.16:086][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/52ed2538.bin
+[2018.09.20-12.22.16:108][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/bf121eca.bin
+[2018.09.20-12.22.16:112][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.09.20-12.22.16:614][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.09.20-12.22.17:115][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.09.20-12.22.17:616][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.09.20-12.22.18:117][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.09.20-12.22.18:617][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.09.20-12.22.19:117][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.09.20-12.22.19:618][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.09.20-12.22.20:118][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.09.20-12.22.20:619][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2018.09.20-12.22.21:119][  0]LogFileManager: Error: Error moving file '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/AssetRegistryCache/1f683343.bin'.
+[2018.09.20-12.22.21:121][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 5.140490 seconds
+[2018.09.20-12.22.21:126][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.20-12.22.21:126][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.20-12.22.21:126][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.20-12.22.40:242][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.20-12.22.40:256][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.20-12.22.42:190][  0]SourceControl: Source control is disabled
+[2018.09.20-12.22.42:190][  0]SourceControl: Source control is disabled
+[2018.09.20-12.22.42:192][  0]SourceControl: Source control is disabled
+[2018.09.20-12.22.42:193][  0]SourceControl: Source control is disabled
+[2018.09.20-12.22.42:382][  0]LogConfig: Warning: Failed to saved backup for config[Encryption]
+[2018.09.20-12.22.43:591][  0]LogConfig: Warning: Failed to saved backup for config[UnitTest]
+[2018.09.20-12.22.43:597][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.20-12.22.43:746][  0]LogOcInput: OculusInput pre-init called
+[2018.09.20-12.22.45:378][  0]LogEngine: Initializing Engine...
+[2018.09.20-12.22.45:555][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.20-12.22.45:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.20-12.22.45:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.20-12.22.45:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.20-12.22.45:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.20-12.22.46:978][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.20-12.22.47:927][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.20-12.22.48:359][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-12.22.48:437][  0]LogInit: FAudioDevice initialized.
+[2018.09.20-12.22.48:454][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.20-12.22.48:982][  0]LogDerivedDataCache: Saved boot cache 0.53s 71MB C:/Users/Computer 2/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.20-12.22.48:991][  0]LogInit: Texture streaming: Enabled
+[2018.09.20-12.22.49:132][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.20-12.22.49:572][  0]LogInit: Transaction tracking system initialized
+[2018.09.20-12.22.50:754][  0]BlueprintLog: New page: Editor Load
+[2018.09.20-12.22.54:883][  0]LocalizationService: Localization service is disabled
+[2018.09.20-12.22.58:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/' took 0.05s
+[2018.09.20-12.22.58:727][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.20-12.22.58:736][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.20-12.22.58:759][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.20-12.22.58:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.20-12.22.58:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.20-12.22.58:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.20-12.22.58:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.20-12.23.02:686][  0]SourceControl: Source control is disabled
+[2018.09.20-12.23.02:726][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.20-12.23.02:885][  0]LightingResults: New page: Lighting Build
+[2018.09.20-12.23.03:251][  0]MapCheck: New page: Map Check
+[2018.09.20-12.23.03:251][  0]LightingResults: New page: Lighting Build
+[2018.09.20-12.23.11:695][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.20-12.23.13:712][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.20-12.23.14:261][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.20-12.23.14:380][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 118.618ms to complete.
+[2018.09.20-12.23.14:404][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 11.703
+[2018.09.20-12.23.17:297][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.23.17:363][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.23.17:371][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.23.17:377][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.23.17:583][  0]LogCollectionManager: Loaded 0 collections in 0.008594 seconds
+[2018.09.20-12.23.17:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/Collections/' took 0.01s
+[2018.09.20-12.23.17:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/Developers/Computer2/Collections/' took 0.01s
+[2018.09.20-12.23.17:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/Collections/' took 0.01s
+[2018.09.20-12.23.17:740][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.20-12.23.17:764][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2572 classes and 603 folders.
+[2018.09.20-12.23.17:887][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.20-12.23.19:424][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.20-12.23.19:502][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.20-12.23.21:489][  0]LogSlate: Took 0.011593 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.20-12.23.21:548][  0]LogSlate: Took 0.025940 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.20-12.23.21:706][  0]LogSlate: Took 0.032676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.20-12.23.22:673][  0]LogRenderer: Reallocating scene render targets to support 1240x504 Format 10 NumSamples 1 (Frame:1).
+[2018.09.20-12.23.24:924][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.20-12.23.24:924][  0]LogLoad: (Engine Initialization) Total time: 124.64 seconds
+[2018.09.20-12.23.24:924][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.20-12.23.25:806][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.20-12.23.26:425][  0]LogSlate: Took 0.030515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.20-12.23.27:371][  2]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.20-12.23.27:396][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-12.23.27:412][  3]LogAssetRegistry: Asset discovery search completed in 77.8062 seconds
+[2018.09.20-12.23.27:414][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.20-12.23.27:414][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2018.09.20-12.23.40:357][935]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2018.09.20-12.23.42:732][935]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.09.20-12.23.48:003][935]LogSlate: Took 0.035690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.20-12.23.49:832][936]LogSlate: Took 0.036903 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.20-12.23.51:271][941]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.09.20-12.24.29:549][526]LogSlate: Took 0.048997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.20-12.25.30:316][431]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.20-12.25.30:982][466]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TestingThings
+[2018.09.20-12.25.30:982][466]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.20-12.25.30:982][466]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.09.20-12.25.30:982][466]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.20-12.25.31:009][469]LogTemp: BranchPath = COMPUTER2/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = COMPUTER2/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.20-12.25.31:234][496]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Computer 2\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.20-12.27.23:044][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.20-12.27.23:160][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-12.27.23:161][ 35]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.20-12.27.23:224][ 35]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.09.20-12.27.23:828][ 35]LogPlayLevel: PlayLevel: Blueprint regeneration took 667 ms (1 blueprints)
+[2018.09.20-12.27.23:962][ 35]PIE: New page: PIE session: FirstPersonExampleMap (Sep 20, 2018, 4:27:23 AM)
+[2018.09.20-12.27.23:972][ 35]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.20-12.27.24:043][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071105s)
+[2018.09.20-12.27.24:044][ 35]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.20-12.27.24:060][ 35]LogPlayLevel: PIE: World Init took: (0.016224s)
+[2018.09.20-12.27.24:060][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.087533s)
+[2018.09.20-12.27.24:171][ 35]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-12.27.24:180][ 35]LogInit: FAudioDevice initialized.
+[2018.09.20-12.27.24:208][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.27.24:359][ 35]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.20-12.27.24:480][ 35]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.09.20-08.27.24
+[2018.09.20-12.27.24:729][ 35]LogWorld: Bringing up level for play took: 0.289480
+[2018.09.20-12.27.24:988][ 35]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2018.09.20-12.27.25:134][ 35]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 2.77
+[2018.09.20-12.27.25:145][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-12.27.25:667][ 35]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.09.20-12.27.28:109][263]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.09.20-12.27.28:559][263]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.20-12.27.28:597][263]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.09.20-12.27.28:619][263]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.20-12.27.29:556][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-12.27.29:587][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.27.29:604][354]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-12.27.29:634][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-12.27.29:634][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-12.27.29:744][355]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.09.20-12.27.30:283][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-12.27.30:357][428]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.20-12.27.30:401][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-12.27.30:401][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-12.27.30:401][428]PIE: New page: PIE session: FirstPersonExampleMap (Sep 20, 2018, 4:27:30 AM)
+[2018.09.20-12.27.30:402][428]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.20-12.27.30:415][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013416s)
+[2018.09.20-12.27.30:416][428]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.20-12.27.30:416][428]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2018.09.20-12.27.30:416][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014292s)
+[2018.09.20-12.27.30:441][428]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-12.27.30:450][428]LogInit: FAudioDevice initialized.
+[2018.09.20-12.27.30:480][428]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.20-12.27.30:483][428]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.09.20-08.27.30
+[2018.09.20-12.27.30:484][428]LogWorld: Bringing up level for play took: 0.002952
+[2018.09.20-12.27.30:496][428]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.133
+[2018.09.20-12.27.30:496][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-12.27.38:547][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-12.27.38:554][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.27.38:615][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-12.27.38:615][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-12.27.38:643][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.27.38:657][363]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.09.20-12.27.39:982][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-12.31.09:291][221]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/FirstPersonExampleMap566D5DAE4E3D6AEBE9F8C2BAF84A1C6D.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.20-12.31.10:878][221]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/FirstPersonExampleMap_BuiltData3A24BA544EB707417A464DB5783E51EF.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.20-12.31.13:377][520]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/MainMenu.MainMenu
+[2018.09.20-12.31.15:160][520]LogSlate: Window 'Save Content' being destroyed
+[2018.09.20-12.31.15:485][520]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/FirstPersonCharacter8EA5F5F94559B220119C5486B62DFC63.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.09.20-12.31.15:640][520]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/MainMenu69B101F348370BCFFA81B7B2DB567F41.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/MainMenu.umap'
+[2018.09.20-12.31.15:643][520]LogFileHelpers: Saving map 'MainMenu' took 0.155
+[2018.09.20-12.31.15:645][520]Cmd: MAP LOAD FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.20-12.31.15:645][520]LightingResults: New page: Lighting Build
+[2018.09.20-12.31.15:646][520]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.09.20-12.31.15:664][520]MapCheck: New page: Map Check
+[2018.09.20-12.31.15:664][520]LightingResults: New page: Lighting Build
+[2018.09.20-12.31.15:778][520]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.20-12.31.15:778][520]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.20-12.31.15:845][520]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.20-12.31.15:913][520]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.203ms to complete.
+[2018.09.20-12.31.15:914][520]LogFileHelpers: Loading map 'MainMenu' took 0.270
+[2018.09.20-12.31.18:071][723]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.20-12.31.18:079][723]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2018.09.20-12.31.18:125][723]Cmd: MAP LOAD FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.20-12.31.18:125][723]LightingResults: New page: Lighting Build
+[2018.09.20-12.31.18:125][723]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2018.09.20-12.31.18:126][723]MapCheck: New page: Map Check
+[2018.09.20-12.31.18:126][723]LightingResults: New page: Lighting Build
+[2018.09.20-12.31.18:252][723]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.20-12.31.18:310][723]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.20-12.31.18:379][723]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.743ms to complete.
+[2018.09.20-12.31.18:379][723]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.254
+[2018.09.20-12.31.40:149][104]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-12.31.45:999][509]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2018.09.20-12.32.03:426][140]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.09.20-12.32.57:384][198]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/UI/PauseMeu.PauseMeu
+[2018.09.20-12.33.34:515][276]LogSlate: Took 0.057344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.09.20-12.36.20:853][522]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_4.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.20:853][522]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_5.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.20:853][522]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_6.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.20:853][522]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_7.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.20:853][522]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72.VerticalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Button_14).  Import failed...
+[2018.09.20-12.36.20:853][522]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_72.VerticalBoxSlot_0"''
+[2018.09.20-12.36.22:136][674]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_4.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.22:136][674]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_5.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.22:136][674]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_6.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.22:136][674]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_7.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.22:136][674]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72.VerticalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Button_14).  Import failed...
+[2018.09.20-12.36.22:136][674]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_72.VerticalBoxSlot_0"''
+[2018.09.20-12.36.22:699][733]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_4.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.22:699][733]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_5.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.22:699][733]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_6.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.22:699][733]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_7.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.22:699][733]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_8.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.22:699][733]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72.VerticalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Button_14).  Import failed...
+[2018.09.20-12.36.22:699][733]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_72.VerticalBoxSlot_0"''
+[2018.09.20-12.36.24:321][926]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_4.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.24:321][926]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_5.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.24:321][926]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_6.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.24:321][926]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_7.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.24:321][926]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_8.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.24:321][926]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72.VerticalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Button_14).  Import failed...
+[2018.09.20-12.36.24:321][926]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_72.VerticalBoxSlot_0"''
+[2018.09.20-12.36.25:068][  6]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_4.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.25:068][  6]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_5.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.25:068][  6]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_6.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.25:068][  6]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_7.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.25:068][  6]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_8.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.25:068][  6]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_9.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.36.25:068][  6]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72.VerticalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Button_14).  Import failed...
+[2018.09.20-12.36.25:068][  6]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_72.VerticalBoxSlot_0"''
+[2018.09.20-12.37.06:815][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_4.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:815][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_5.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:815][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_6.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:815][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_7.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:815][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_8.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:815][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_9.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_10.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_11.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_12.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_13.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_14.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_15.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_16.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_17.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_18.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_19.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_20.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_21.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_22.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.06:816][125]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72.VerticalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Button_14).  Import failed...
+[2018.09.20-12.37.06:816][125]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_72.VerticalBoxSlot_0"''
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_4.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_5.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_6.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_7.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_8.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_9.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_10.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_11.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_12.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_13.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_14.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_15.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_16.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_17.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_18.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_19.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_20.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_21.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_22.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:098][277]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72.VerticalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Button_14).  Import failed...
+[2018.09.20-12.37.08:098][277]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_72.VerticalBoxSlot_0"''
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_4.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_5.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_6.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_7.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_8.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_9.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_10.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_11.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_12.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_13.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_14.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_15.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_16.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_17.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_18.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_19.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_20.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_21.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_22.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_23.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.08:746][344]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72.VerticalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Button_14).  Import failed...
+[2018.09.20-12.37.08:746][344]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_72.VerticalBoxSlot_0"''
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_4.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_5.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_6.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_7.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_8.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_9.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_10.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_11.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_12.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_13.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_14.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_15.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_16.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_17.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_18.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_19.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_20.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_21.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_22.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_23.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72 or VerticalBox /Engine/Transient.World_13:PauseMeu_C_24.WidgetTree_0.VerticalBox_72
+[2018.09.20-12.37.09:407][413]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/FirstPersonBP/UI/PauseMeu.PauseMeu:WidgetTree.VerticalBox_72.VerticalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Button_14).  Import failed...
+[2018.09.20-12.37.09:407][413]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_72.VerticalBoxSlot_0"''
+[2018.09.20-12.37.48:874][982]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/UI/MainMenu.MainMenu
+[2018.09.20-12.38.25:729][944]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.20-12.38.25:731][944]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/MainMenu.MainMenu
+[2018.09.20-12.38.27:460][944]LogSlate: Window 'Save Content' being destroyed
+[2018.09.20-12.38.27:466][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/MainMenu" FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/MainMenu.uasset" SILENT=true
+[2018.09.20-12.38.27:534][944]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/MainMenu22A47D7C4C4AACB2C8A58DB0AC4DDA01.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/MainMenu.uasset'
+[2018.09.20-12.38.27:536][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/PauseMeu" FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/PauseMeu.uasset" SILENT=true
+[2018.09.20-12.38.27:552][944]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/PauseMeu3AD5517C46D151B0D164348F2B551F45.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/PauseMeu.uasset'
+[2018.09.20-12.38.27:555][944]Cmd: MAP LOAD FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.20-12.38.27:555][944]LightingResults: New page: Lighting Build
+[2018.09.20-12.38.27:556][944]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.09.20-12.38.27:571][944]MapCheck: New page: Map Check
+[2018.09.20-12.38.27:571][944]LightingResults: New page: Lighting Build
+[2018.09.20-12.38.27:670][944]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.20-12.38.27:730][944]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.20-12.38.28:635][944]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 904.887ms to complete.
+[2018.09.20-12.38.28:638][944]LogFileHelpers: Loading map 'MainMenu' took 1.084
+[2018.09.20-12.38.30:353][103]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2018.09.20-12.38.54:230][414]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/MainMenu4D75DD324F3D8305819F99BEAE38494F.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/MainMenu.umap'
+[2018.09.20-12.38.54:266][414]LogFileHelpers: Saving map 'MainMenu' took 0.176
+[2018.09.20-12.38.54:363][425]BlueprintLog: New page: Compile MainMenu
+[2018.09.20-12.38.56:300][616]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/MainMenu905BC7E34DB9EB50124176BBCD512D14.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/MainMenu.umap'
+[2018.09.20-12.40.31:154][317]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.20-12.41.33:376][463]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.SKEL_MainMenu_C
+[2018.09.20-12.41.33:376][463]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.MainMenu_C
+[2018.09.20-12.41.34:973][653]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.SKEL_MainMenu_C
+[2018.09.20-12.41.34:973][653]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.MainMenu_C
+[2018.09.20-12.42.05:352][535]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.09.20-12.42.05:989][539]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/FirstPersonCharacterCD3B7909487F1A1FCDDDC3A68B36A673.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.09.20-12.43.02:502][508]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.09.20-12.43.03:108][514]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/FirstPersonCharacter8F1538D24DCE74948B79EAB628D914E6.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.09.20-12.43.48:015][617]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.20-12.44.55:848][101]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.09.20-12.44.56:633][102]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/FirstPersonCharacterA17B799641DEC3D123DBD4885CD3D3F4.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.09.20-12.47.05:166][746]BlueprintLog: New page: Compile PauseMeu
+[2018.09.20-12.47.05:440][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/PauseMeu" FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/PauseMeu.uasset" SILENT=true
+[2018.09.20-12.47.05:469][758]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/PauseMeuB4D2432E4EF8AC1E38FC118D22C0EB4B.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/PauseMeu.uasset'
+[2018.09.20-12.47.55:777][886]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.20-12.47.55:824][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.47.55:824][886]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.20-12.47.55:828][886]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2018.09.20-12.47.56:028][886]LogPlayLevel: [PlayLevel] Compiling PauseMeu before play...
+[2018.09.20-12.47.56:248][886]LogPlayLevel: PlayLevel: Blueprint regeneration took 424 ms (2 blueprints)
+[2018.09.20-12.47.56:248][886]PIE: New page: PIE session: MainMenu (Sep 20, 2018, 4:47:56 AM)
+[2018.09.20-12.47.56:248][886]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.20-12.47.56:249][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000763s)
+[2018.09.20-12.47.56:249][886]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.20-12.47.56:250][886]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2018.09.20-12.47.56:250][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001561s)
+[2018.09.20-12.47.56:278][886]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-12.47.56:289][886]LogInit: FAudioDevice initialized.
+[2018.09.20-12.47.56:295][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.47.56:326][886]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.20-12.47.56:327][886]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.20-08.47.56
+[2018.09.20-12.47.56:327][886]LogWorld: Bringing up level for play took: 0.000407
+[2018.09.20-12.47.56:339][886]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.20-12.47.56:425][886]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.062
+[2018.09.20-12.47.56:425][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.47.58:884][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.47.58:884][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.47.58:902][148]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-12.47.58:940][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-12.47.58:940][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.47.59:028][150]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.09.20-12.48.00:695][350]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.20-12.48.00:722][350]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.48.00:723][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-12.48.00:723][350]PIE: New page: PIE session: MainMenu (Sep 20, 2018, 4:48:00 AM)
+[2018.09.20-12.48.00:723][350]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.20-12.48.00:724][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000928s)
+[2018.09.20-12.48.00:724][350]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.20-12.48.00:724][350]LogPlayLevel: PIE: World Init took: (0.000492s)
+[2018.09.20-12.48.00:724][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001504s)
+[2018.09.20-12.48.00:759][350]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-12.48.00:768][350]LogInit: FAudioDevice initialized.
+[2018.09.20-12.48.00:774][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.00:816][350]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.20-12.48.00:818][350]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.20-08.48.00
+[2018.09.20-12.48.00:818][350]LogWorld: Bringing up level for play took: 0.000566
+[2018.09.20-12.48.00:829][350]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.20-12.48.00:840][350]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.477
+[2018.09.20-12.48.00:840][350]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.48.01:604][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.02:634][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-12.48.02:673][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.04:308][748]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.48.04:308][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.04:327][748]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-12.48.04:359][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-12.48.04:359][748]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.48.04:439][750]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.09.20-12.48.15:232][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.20-12.48.15:256][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.48.15:256][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-12.48.15:256][ 39]PIE: New page: PIE session: MainMenu (Sep 20, 2018, 4:48:15 AM)
+[2018.09.20-12.48.15:256][ 39]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.20-12.48.15:257][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000851s)
+[2018.09.20-12.48.15:257][ 39]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.20-12.48.15:258][ 39]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2018.09.20-12.48.15:258][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001438s)
+[2018.09.20-12.48.15:287][ 39]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-12.48.15:298][ 39]LogInit: FAudioDevice initialized.
+[2018.09.20-12.48.15:330][ 39]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.20-12.48.15:330][ 39]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.20-08.48.15
+[2018.09.20-12.48.15:330][ 39]LogWorld: Bringing up level for play took: 0.000270
+[2018.09.20-12.48.15:344][ 39]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.981
+[2018.09.20-12.48.15:344][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.48.17:191][260]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.48.17:191][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.17:227][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-12.48.17:227][260]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.48.17:252][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.17:292][264]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.09.20-12.48.18:637][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-12.48.19:054][475]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.20-12.48.19:079][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.48.19:079][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-12.48.19:079][475]PIE: New page: PIE session: MainMenu (Sep 20, 2018, 4:48:19 AM)
+[2018.09.20-12.48.19:079][475]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.20-12.48.19:080][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000904s)
+[2018.09.20-12.48.19:081][475]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.20-12.48.19:081][475]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2018.09.20-12.48.19:081][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001691s)
+[2018.09.20-12.48.19:109][475]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-12.48.19:118][475]LogInit: FAudioDevice initialized.
+[2018.09.20-12.48.19:146][475]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.20-12.48.19:147][475]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.20-08.48.19
+[2018.09.20-12.48.19:147][475]LogWorld: Bringing up level for play took: 0.000279
+[2018.09.20-12.48.19:161][475]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.798
+[2018.09.20-12.48.19:162][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.48.19:970][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.21:203][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-12.48.21:261][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.22:604][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.23:286][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-12.48.23:353][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.23:546][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.23:962][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-12.48.24:470][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.24:655][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.25:004][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-12.48.25:071][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.25:771][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.48.25:772][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.25:807][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-12.48.25:808][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.48.25:842][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.48.25:874][271]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.09.20-12.48.26:691][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-12.48.30:379][808]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Actual_Hud2.Actual_Hud2
+[2018.09.20-12.49.04:323][813]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.20-12.49.04:352][813]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.49.04:352][813]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.20-12.49.04:353][813]LogPlayLevel: [PlayLevel] Compiling Actual_Hud2 before play...
+[2018.09.20-12.49.04:470][813]LogPlayLevel: [PlayLevel] Compiling PauseMeu before play...
+[2018.09.20-12.49.04:486][813]LogBlueprint: Error: [Compiler PauseMeu] This blueprint (self) is not a HUD, therefore ' Target ' must have a connection.
+[2018.09.20-12.49.04:489][813]LogBlueprint: Warning: [Compiler PauseMeu] [1664.21] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 22 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.20-12.49.04:688][813]LogPlayLevel: PlayLevel: Blueprint regeneration took 335 ms (2 blueprints)
+[2018.09.20-12.49.04:688][813]BlueprintLog: Blueprint PauseMeu failed to compile
+[2018.09.20-12.49.06:347][813]LogSlate: Window 'Message' being destroyed
+[2018.09.20-12.49.07:154][904]BlueprintLog: New page: Compile PauseMeu
+[2018.09.20-12.49.07:165][904]LogBlueprint: Error: [Compiler PauseMeu] This blueprint (self) is not a HUD, therefore ' Target ' must have a connection.
+[2018.09.20-12.49.07:221][904]LogBlueprint: Warning: [Compiler PauseMeu] [1666.94] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 67 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.20-12.49.12:901][575]BlueprintLog: New page: Compile PauseMeu
+[2018.09.20-12.49.13:814][672]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.20-12.49.13:840][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.49.13:840][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-12.49.13:840][672]PIE: New page: PIE session: MainMenu (Sep 20, 2018, 4:49:13 AM)
+[2018.09.20-12.49.13:840][672]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.20-12.49.13:841][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000977s)
+[2018.09.20-12.49.13:842][672]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.20-12.49.13:842][672]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2018.09.20-12.49.13:842][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001723s)
+[2018.09.20-12.49.13:878][672]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-12.49.13:887][672]LogInit: FAudioDevice initialized.
+[2018.09.20-12.49.13:895][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.49.13:925][672]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.20-12.49.13:926][672]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.20-08.49.13
+[2018.09.20-12.49.13:926][672]LogWorld: Bringing up level for play took: 0.000457
+[2018.09.20-12.49.13:938][672]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.20-12.49.13:941][672]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu -0.422
+[2018.09.20-12.49.13:941][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.49.15:034][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.49.15:034][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.49.15:051][796]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-12.49.15:082][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-12.49.15:083][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.49.15:158][798]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.09.20-12.49.16:217][925]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.20-12.49.16:245][925]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.49.16:245][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-12.49.16:245][925]PIE: New page: PIE session: MainMenu (Sep 20, 2018, 4:49:16 AM)
+[2018.09.20-12.49.16:245][925]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.20-12.49.16:246][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000770s)
+[2018.09.20-12.49.16:247][925]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.20-12.49.16:247][925]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2018.09.20-12.49.16:247][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001376s)
+[2018.09.20-12.49.16:281][925]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-12.49.16:291][925]LogInit: FAudioDevice initialized.
+[2018.09.20-12.49.16:296][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.49.16:325][925]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.20-12.49.16:327][925]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.20-08.49.16
+[2018.09.20-12.49.16:327][925]LogWorld: Bringing up level for play took: 0.000878
+[2018.09.20-12.49.16:338][925]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.20-12.49.16:341][925]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu -0.022
+[2018.09.20-12.49.16:342][925]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.49.17:154][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.49.17:638][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-12.49.17:713][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.49.18:363][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.49.18:364][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.49.18:382][161]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-12.49.18:418][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-12.49.18:418][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.49.18:488][163]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.09.20-12.49.48:689][700]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/GameOVer'
+[2018.09.20-12.49.48:689][700]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/GameOVer' while loading ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Blueprints/Actual_Hud2.uasset.
+[2018.09.20-12.49.48:689][700]LoadErrors: Error: /Game/FirstPersonBP/Blueprints/Actual_Hud2 : Can't find file for asset. /Game/FirstPersonBP/Blueprints/GameOVer
+[2018.09.20-12.49.48:689][700]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Blueprints/GameOVer'
+[2018.09.20-12.49.48:690][700]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Blueprints/GameOVer' while loading ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Blueprints/Actual_Hud2.uasset.
+[2018.09.20-12.49.48:937][700]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.20-12.49.48:951][700]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2018.09.20-12.49.50:420][700]LogSlate: Window 'Save Content' being destroyed
+[2018.09.20-12.49.50:446][700]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/Actual_Hud24AE8D012462A3E3012DD2BAC711C18A0.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Blueprints/Actual_Hud2.uasset'
+[2018.09.20-12.49.50:449][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/PauseMeu" FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/PauseMeu.uasset" SILENT=true
+[2018.09.20-12.49.50:473][700]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/PauseMeuE5D931C5435F2940A5BE32A0BB2E9EC5.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/PauseMeu.uasset'
+[2018.09.20-12.49.50:478][700]Cmd: MAP LOAD FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.20-12.49.50:478][700]LightingResults: New page: Lighting Build
+[2018.09.20-12.49.50:480][700]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2018.09.20-12.49.50:520][700]MapCheck: New page: Map Check
+[2018.09.20-12.49.50:520][700]LightingResults: New page: Lighting Build
+[2018.09.20-12.49.50:662][700]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.20-12.49.50:719][700]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.20-12.49.50:788][700]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.807ms to complete.
+[2018.09.20-12.49.50:788][700]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.314
+[2018.09.20-12.49.54:395][119]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2018.09.20-12.49.54:424][119]Cmd: MAP LOAD FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.20-12.49.54:424][119]LightingResults: New page: Lighting Build
+[2018.09.20-12.49.54:425][119]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2018.09.20-12.49.54:426][119]MapCheck: New page: Map Check
+[2018.09.20-12.49.54:426][119]LightingResults: New page: Lighting Build
+[2018.09.20-12.49.54:489][119]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.20-12.49.54:598][119]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.20-12.49.54:661][119]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.20-12.49.54:728][119]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.577ms to complete.
+[2018.09.20-12.49.54:729][119]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.307
+[2018.09.20-12.50.04:539][278]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.20-12.50.04:611][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-12.50.04:612][278]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.20-12.50.04:617][278]LogPlayLevel: [PlayLevel] Compiling PauseMeu before play...
+[2018.09.20-12.50.04:779][278]LogPlayLevel: PlayLevel: Blueprint regeneration took 167 ms (1 blueprints)
+[2018.09.20-12.50.04:779][278]PIE: New page: PIE session: FirstPersonExampleMap (Sep 20, 2018, 4:50:04 AM)
+[2018.09.20-12.50.04:779][278]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.20-12.50.04:799][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020659s)
+[2018.09.20-12.50.04:800][278]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.20-12.50.04:800][278]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2018.09.20-12.50.04:800][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.021597s)
+[2018.09.20-12.50.04:833][278]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-12.50.04:842][278]LogInit: FAudioDevice initialized.
+[2018.09.20-12.50.04:848][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.50.04:881][278]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.20-12.50.04:886][278]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.09.20-08.50.04
+[2018.09.20-12.50.04:886][278]LogWorld: Bringing up level for play took: 0.003851
+[2018.09.20-12.50.04:899][278]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.536
+[2018.09.20-12.50.04:900][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-12.50.05:549][344]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-12.50.05:549][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.50.05:567][344]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-12.50.05:605][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-12.50.05:606][344]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.20-12.50.05:673][346]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.09.20-12.50.08:184][644]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.20-12.50.08:187][644]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/MainMenu.MainMenu
+[2018.09.20-12.50.09:307][644]LogSlate: Window 'Save Content' being destroyed
+[2018.09.20-12.50.09:603][644]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/FirstPersonExampleMap0CC435564F56F40F0F1E0FB263FD22DF.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.20-12.50.09:634][644]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.321
+[2018.09.20-12.50.09:634][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/PauseMeu" FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/PauseMeu.uasset" SILENT=true
+[2018.09.20-12.50.09:671][644]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/PauseMeu051ACA2A47CE62417429FAA1F3DDA6AE.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/PauseMeu.uasset'
+[2018.09.20-12.50.09:674][644]Cmd: MAP LOAD FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.20-12.50.09:674][644]LightingResults: New page: Lighting Build
+[2018.09.20-12.50.09:675][644]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.09.20-12.50.09:676][644]MapCheck: New page: Map Check
+[2018.09.20-12.50.09:676][644]LightingResults: New page: Lighting Build
+[2018.09.20-12.50.09:758][644]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.20-12.50.09:814][644]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.20-12.50.09:882][644]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.198ms to complete.
+[2018.09.20-12.50.09:882][644]LogFileHelpers: Loading map 'MainMenu' took 0.209
+[2018.09.20-12.50.10:416][699]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.20-12.50.10:441][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.50.10:441][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-12.50.10:441][699]PIE: New page: PIE session: MainMenu (Sep 20, 2018, 4:50:10 AM)
+[2018.09.20-12.50.10:441][699]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.20-12.50.10:442][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000753s)
+[2018.09.20-12.50.10:442][699]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.20-12.50.10:442][699]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2018.09.20-12.50.10:442][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001440s)
+[2018.09.20-12.50.10:472][699]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.20-12.50.10:481][699]LogInit: FAudioDevice initialized.
+[2018.09.20-12.50.10:514][699]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.20-12.50.10:515][699]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.20-08.50.10
+[2018.09.20-12.50.10:515][699]LogWorld: Bringing up level for play took: 0.000237
+[2018.09.20-12.50.10:529][699]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.166
+[2018.09.20-12.50.10:529][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.50.11:975][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.50.12:675][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-12.50.12:750][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.50.12:767][963]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2018.09.20-12.50.12:779][963]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2018.09.20-12.50.13:240][963]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.20-12.50.13:240][963]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.20-12.50.13:247][963]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.09.20-08.50.13
+[2018.09.20-12.50.13:248][963]LogWorld: Bringing up level for play took: 0.006621
+[2018.09.20-12.50.13:262][963]LogLoad: Took 0.483416 seconds to LoadMap(/Game/FirstPersonBP/Maps/FirstPersonExampleMap)
+[2018.09.20-12.50.17:077][412]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.50.17:077][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.50.17:108][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-12.50.17:108][412]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.20-12.50.17:138][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-12.50.17:183][414]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.09.20-12.50.17:867][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-12.50.23:009][ 51]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.485 s
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: 
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: 
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: Stack: 
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9cd5f71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9cd330c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9cd34b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9b7c2f1e8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9ca904c25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9ca9301fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9ca916535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9ca982dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9ca9c99f1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9ca95c81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9c60605b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9d14b24df UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9d14f437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9cb1b3a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9cb1a1a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9d14770ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9d14f606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9d14e9846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9dc1cce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9dc1c0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9dc1cf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9dc1bc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9f7856cc1 USER32.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9f7856693 USER32.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9dc1d0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff66ccc54e5 UE4Editor.exe!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff66ccd5b3c UE4Editor.exe!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff66ccd5bba UE4Editor.exe!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff66cce3dac UE4Editor.exe!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff66cce5aaa UE4Editor.exe!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9f7a13034 KERNEL32.DLL!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: [Callstack] 0x00007ff9f9ee1461 ntdll.dll!UnknownFunction []
+[2018.09.20-12.50.23:009][ 51]LogOutputDevice: Error: 
+[2018.09.20-12.50.23:034][ 51]LogStats:                SubmitErrorReport -  0.017 s
