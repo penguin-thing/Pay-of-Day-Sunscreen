@@ -270,239 +270,257 @@
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 269
 "../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 270
 "../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 271
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 272
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 273
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 274
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 275
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 276
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 277
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 278
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 279
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 280
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 281
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 282
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 283
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 284
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 285
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 286
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 287
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 288
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 289
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 290
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 291
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 292
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 293
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 294
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 295
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 296
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 297
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 298
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 299
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 300
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 301
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 302
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 303
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 304
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 305
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 306
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 307
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 308
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 309
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 310
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 311
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 312
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 313
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 314
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 315
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 316
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 317
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 318
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 319
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 320
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveComponent.uasset" 321
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveType.uasset" 322
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 323
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 324
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantType.uasset" 325
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 326
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 327
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 328
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 329
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 330
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 331
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 332
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 333
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 334
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 335
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 336
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 337
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 338
-"../../../Engine/Content/Maps/Entry.umap" 339
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 340
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 341
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 342
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 343
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 344
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 345
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 346
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 347
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 348
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 349
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 350
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 351
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 352
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 353
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 354
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/Jump_From_Jog.uasset" 355
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/Jump_From_Stand.uasset" 356
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 357
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 358
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 359
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 360
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/BS_CrouchWalk.uasset" 361
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 362
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 363
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 364
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 365
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/BS_Jog.uasset" 366
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 367
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 368
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 369
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 370
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 371
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 372
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 373
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 374
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 375
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 376
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 377
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 378
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 379
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 380
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 381
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 382
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 383
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 384
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 385
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 386
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 387
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/Ue4ASP_Character.uasset" 388
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset" 389
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 390
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 391
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 392
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 393
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 394
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 395
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 396
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 397
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 398
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actors/Saves/Save.uasset" 399
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 400
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/TempSnake/Material.uasset" 401
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/TempSnake/TEMPORARY_Snake.uasset" 402
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actors/Snake_Blueprint.uasset" 403
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Meshes/BaseMaterial.uasset" 404
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 405
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Geometry/Meshes/CubeMaterial.uasset" 406
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Geometry/Meshes/1M_Cube.uasset" 407
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Projectiles/FirstPersonProjectile.uasset" 408
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 409
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/StarterContent/Textures/T_Water_M.uasset" 410
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/StarterContent/Textures/T_Water_N.uasset" 411
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/StarterContent/Materials/M_Water_Ocean.uasset" 412
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 413
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Projectiles/FreezeSpray.uasset" 414
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Projectiles/RevolverOcelot.uasset" 415
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Materials/Infrared.uasset" 416
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Materials/Walling.uasset" 417
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Materials/Walling_Inst.uasset" 418
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 419
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 420
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 421
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 422
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 423
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 424
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 425
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 426
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 427
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 428
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 429
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 430
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 431
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 432
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 433
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 434
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 435
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 436
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 437
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 438
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 439
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 440
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 441
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 442
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 443
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 444
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 445
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 446
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actual_HuD.uasset" 447
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/UI/OptionsMenu.uasset" 448
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/UI/PauseMeu.uasset" 449
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/UI/WeaponWheel.uasset" 450
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actors/FirstPersonCharacter.uasset" 451
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Projectiles/EnemyProjectile.uasset" 452
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Gun/Base.uasset" 453
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Gun/Fusion.uasset" 454
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Gun/Gun__Fixed___Fixed_.uasset" 455
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actors/AI_Base.uasset" 456
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actors/maintenance/AI_Level2_Gaurd4.uasset" 457
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actors/maintenance/AI_Level2Gaurd2.uasset" 458
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actors/maintenance/AI_Level2Gaurd3.uasset" 459
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actors/maintenance/AI_Level2Gaurd5.uasset" 460
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actors/maintenance/AI_Level2Guard1.uasset" 461
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 462
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Turyeet_Asset/Aluminum.uasset" 463
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Turyeet_Asset/Black_Out.uasset" 464
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Turyeet_Asset/Brass.uasset" 465
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Turyeet_Asset/ERed.uasset" 466
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Turyeet_Asset/Lense.uasset" 467
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Turyeet_Asset/Light.uasset" 468
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Turyeet_Asset/Plastic.uasset" 469
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Turyeet_Asset/Steel.uasset" 470
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Turyeet_Asset/Tan.uasset" 471
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Turyeet_Asset/Turret_Single_Object_PhysicsAsset.uasset" 472
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Turyeet_Asset/Turret_Single_Object_Skeleton.uasset" 473
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/Models/Turyeet_Asset/Turret_Single_Object.uasset" 474
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actors/Turret.uasset" 475
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actors/maintenance/Turret_Level2Corner.uasset" 476
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actors/maintenance/Turret_Level2Turret1.uasset" 477
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/Actual_Hud2.uasset" 478
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 479
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Level1_BuiltData.uasset" 480
-"../../../Engine/Content/BasicShapes/Cube.uasset" 481
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Backdrop.uasset" 482
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Big_Button.uasset" 483
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Black.uasset" 484
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Cabinet__Beige_.uasset" 485
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Case.uasset" 486
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Enitre_Trashcan.uasset" 487
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Glass__47B4E7_.uasset" 488
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Handles__SIlver_.uasset" 489
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Holders.uasset" 490
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Iron.uasset" 491
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Keys.uasset" 492
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Left_Diode.uasset" 493
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Light.uasset" 494
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Light_002.uasset" 495
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Material_000.uasset" 496
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Material_001.uasset" 497
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Material_002.uasset" 498
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Material_003.uasset" 499
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Right_Diode.uasset" 500
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Screen_001.uasset" 501
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Silver.uasset" 502
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Vent__4C4C4C_.uasset" 503
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Wall__686868_.uasset" 504
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/White.uasset" 505
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Maintenance/FBX_levels/Strut1-2/Jay_s_Level_v2.uasset" 506
-"../../../../../../Users/Computer 2/Documents/GitHub/Pay-of-Day-Sunscreen/AI Love you/Content/FirstPersonBP/Maps/Level1.umap" 507
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 272
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 274
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 275
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 281
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 284
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 285
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 286
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 287
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 288
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 289
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 290
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 291
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 292
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 293
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 294
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 295
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 296
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 297
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 298
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 299
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 300
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 301
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 302
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 303
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 304
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 305
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 306
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 307
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/Jump_From_Jog.uasset" 308
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/Jump_From_Stand.uasset" 309
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 310
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 311
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 312
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 313
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/BS_CrouchWalk.uasset" 314
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 315
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 316
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 317
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 318
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/BS_Jog.uasset" 319
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 320
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 321
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 322
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 323
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 324
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 325
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 326
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 327
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 328
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 329
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 330
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 331
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 332
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 333
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 334
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 335
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 336
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 337
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 338
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 339
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 340
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/Ue4ASP_Character.uasset" 341
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset" 342
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 343
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 344
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 345
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 346
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 347
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 348
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 349
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 350
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 351
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 352
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/TempSnake/Material.uasset" 353
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/TempSnake/TEMPORARY_Snake.uasset" 354
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actors/Snake_Blueprint.uasset" 355
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Meshes/BaseMaterial.uasset" 356
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 357
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 358
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Projectiles/FirstPersonProjectile.uasset" 359
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 360
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Textures/T_Water_M.uasset" 361
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Textures/T_Water_N.uasset" 362
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Materials/M_Water_Ocean.uasset" 363
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Projectiles/FreezeSpray.uasset" 364
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 365
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 366
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 367
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Mug/Mug.uasset" 368
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actors/Lures/Mug/ShatteredMug.uasset" 369
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Projectiles/Pickups/Mug.uasset" 370
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Scissors/Material_001.uasset" 371
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Scissors/Scissors.uasset" 372
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actors/Lures/Scissors/Scissors_PU.uasset" 373
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Projectiles/Pickups/Scissors.uasset" 374
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/SodaCan/Body__Blue_.uasset" 375
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/SodaCan/Metal__Silver_.uasset" 376
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/SodaCan/Soda_Can.uasset" 377
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actors/Lures/SodaCan/SodaCan_PU.uasset" 378
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Projectiles/Pickups/SodaCan.uasset" 379
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Stapler/Material_001.uasset" 380
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Stapler/Material_003.uasset" 381
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Stapler/Stapler.uasset" 382
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actors/Lures/Stapler/Stapler_PU.uasset" 383
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Projectiles/Pickups/Stapler.uasset" 384
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Syringe/Material_001.uasset" 385
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Syringe/Material_003.uasset" 386
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Syringe/Material_004.uasset" 387
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Syringe/Material_005.uasset" 388
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Syringe/Syringe.uasset" 389
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actors/Lures/Syringe/Shattered_Syringe.uasset" 390
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Projectiles/Pickups/Syringe.uasset" 391
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Projectiles/RevolverOcelot.uasset" 392
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Materials/Infrared.uasset" 393
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Materials/Walling.uasset" 394
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Materials/Walling_Inst.uasset" 395
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 396
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 397
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 398
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 399
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 400
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 401
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 402
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 403
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 404
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 405
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 406
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 407
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 408
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 409
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 410
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 411
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 412
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 413
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 414
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 415
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 416
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 417
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 418
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 419
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 420
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 421
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 422
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 423
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actual_HuD.uasset" 424
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/UI/OptionsMenu.uasset" 425
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/UI/PauseMeu.uasset" 426
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/UI/WeaponWheel.uasset" 427
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actors/FirstPersonCharacter.uasset" 428
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Projectiles/EnemyProjectile.uasset" 429
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Gun/Base.uasset" 430
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Gun/Fusion.uasset" 431
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Gun/Gun__Fixed___Fixed_.uasset" 432
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actors/AI_Base.uasset" 433
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actors/maintenance/AI_Level2Guard1.uasset" 434
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actors/maintenance/AI_Level2Guard2.uasset" 435
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 436
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Turyeet_Asset/Aluminum.uasset" 437
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Turyeet_Asset/Black_Out.uasset" 438
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Turyeet_Asset/Brass.uasset" 439
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Turyeet_Asset/ERed.uasset" 440
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Turyeet_Asset/Lense.uasset" 441
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Turyeet_Asset/Light.uasset" 442
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Turyeet_Asset/Plastic.uasset" 443
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Turyeet_Asset/Steel.uasset" 444
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Turyeet_Asset/Tan.uasset" 445
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Turyeet_Asset/Turret_Single_Object_PhysicsAsset.uasset" 446
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Turyeet_Asset/Turret_Single_Object_Skeleton.uasset" 447
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Turyeet_Asset/Turret_Single_Object.uasset" 448
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actors/Turret.uasset" 449
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actors/maintenance/Turrets/Turret_Level2Turret1.uasset" 450
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actors/maintenance/Turrets/Turret_Level2Turret2.uasset" 451
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Table/Material.uasset" 452
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Table/Table.uasset" 453
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Terminal/Big_Button.uasset" 454
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Terminal/Black.uasset" 455
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Terminal/Case.uasset" 456
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Terminal/Keys.uasset" 457
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Terminal/Left_Diode.uasset" 458
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Terminal/Material.uasset" 459
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Terminal/Right_Diode.uasset" 460
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Terminal/Screen_001.uasset" 461
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Models/Terminal/Computer_Terminal.uasset" 462
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 463
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 464
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 465
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 466
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 467
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 468
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 469
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 470
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 471
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 472
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 473
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 474
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 475
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 476
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 477
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 478
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 479
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 480
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 481
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveComponent.uasset" 482
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveType.uasset" 483
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 484
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 485
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantType.uasset" 486
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 487
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 488
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 489
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 490
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 491
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 492
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 493
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 494
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 495
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 496
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 497
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 498
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 499
+"../../../Engine/Content/Maps/Entry.umap" 500
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 501
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 502
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 503
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 504
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 505
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 506
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 507
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 508
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 509
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 510
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 511
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 512
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/Actual_Hud2.uasset" 513
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 514
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Maps/Level4_BuiltData.uasset" 515
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 516
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 517
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 518
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 519
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Textures/T_MacroVariation.uasset" 520
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 521
+"../../../Engine/Content/BasicShapes/Cube.uasset" 522
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Geometry/Meshes/CubeMaterial.uasset" 523
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/Geometry/Meshes/1M_Cube.uasset" 524
+"../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings 4.21/Content/FirstPersonBP/Maps/Level4.umap" 525

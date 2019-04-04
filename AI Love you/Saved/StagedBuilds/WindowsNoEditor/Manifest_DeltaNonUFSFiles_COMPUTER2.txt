@@ -15,4 +15,4 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_16/Win64/openvr_api.dll
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll
-AILoveYou.exe
+AI love you.exe
