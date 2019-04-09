@@ -1,0 +1,1406 @@
+﻿Log file open, 09/24/18 07:53:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TestingThings
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.318930
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.320s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.24-11.53.43:862][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.24-11.53.43:862][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.24-11.53.43:955][  0]LogHAL: Display: Platform has ~ 8 GB [8547778560 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.24-11.53.43:987][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.24-11.53.44:026][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.24-11.53.44:078][  0]LogInit: Computer: COMPUTER2
+[2018.09.24-11.53.44:078][  0]LogInit: User: Computer2
+[2018.09.24-11.53.44:078][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.24-11.53.44:078][  0]LogInit: High frequency timer resolution =3.328122 MHz
+[2018.09.24-11.53.44:079][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.09.24-11.53.44:079][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.24-11.53.44:079][  0]LogMemory: Process Physical Memory: 103.64 MB used, 103.64 MB peak
+[2018.09.24-11.53.44:079][  0]LogMemory: Process Virtual Memory: 92.36 MB used, 92.36 MB peak
+[2018.09.24-11.53.44:079][  0]LogMemory: Physical Memory: 3590.31 MB used,  4561.49 MB free, 8151.80 MB total
+[2018.09.24-11.53.44:079][  0]LogMemory: Virtual Memory: 4653.70 MB used,  4561.49 MB free, 134217728.00 MB total
+[2018.09.24-11.53.44:843][  0]LogInit: Using OS detected language (en-US).
+[2018.09.24-11.53.44:843][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.24-11.53.44:856][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.24-11.53.45:617][  0]LogStreaming: Display: Took  0.740s to InitEngineTextLocalization.
+[2018.09.24-11.53.45:628][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.24-11.53.46:365][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.24-11.53.46:365][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.24-11.53.52:981][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.24-11.53.52:981][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.24-11.53.53:125][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.09.24-11.53.53:125][  0]LogD3D11RHI:       8096/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.24-11.53.53:127][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.24-11.53.53:127][  0]LogD3D11RHI:       0/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.24-11.53.53:127][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.24-11.53.53:155][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.24-11.53.53:155][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.24-11.53.53:169][  0]LogWindows: EnumDisplayDevices:
+[2018.09.24-11.53.53:169][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.09.24-11.53.53:169][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.24-11.53.53:169][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.24-11.53.53:169][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.09.24-11.53.53:169][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.24-11.53.53:169][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.09.24-11.53.53:170][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.09.24-11.53.53:170][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.09.24-11.53.53:170][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.09.24-11.53.53:274][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.24-11.53.53:666][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.09.24-11.53.53:761][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Intermediate/Shaders/WorkingDirectory/2008/).
+[2018.09.24-11.53.53:761][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Computer 2/AppData/Local/Temp/UnrealShaderWorkingDir/599DC5C5450DBA3C3DC2A899DF3BD456/'.
+[2018.09.24-11.53.55:065][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.24-11.53.55:092][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.24-11.53.55:122][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.24-11.53.55:163][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.24-11.53.55:202][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.24-11.53.55:264][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.24-11.53.55:295][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.24-11.53.55:323][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.24-11.53.55:369][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:495][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.24-11.53.55:560][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.24-11.53.55:748][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.24-11.53.55:748][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.24-11.53.55:783][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.24-11.53.55:784][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.24-11.53.55:820][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.24-11.53.55:847][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.24-11.53.55:884][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.24-11.53.55:955][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.24-11.53.55:998][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.24-11.53.55:998][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.24-11.53.56:818][  0]LogXGEController: Cleaning working directory: C:/Users/Computer 2/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.24-11.53.56:818][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.24-11.53.56:818][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.24-11.53.56:818][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.24-11.54.03:024][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.24-11.54.03:622][  0]LogDerivedDataCache: Loaded boot cache 0.60s 71MB C:/Users/Computer 2/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.24-11.54.03:623][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Computer 2/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.24-11.54.03:623][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.24-11.54.03:623][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.24-11.54.03:623][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.24-11.54.03:623][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.24-11.54.03:673][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.24-11.54.03:685][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Computer 2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.24-11.54.03:685][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.24-11.54.03:685][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.24-11.54.03:773][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.24-11.54.03:821][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.24-11.54.03:910][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.24-11.54.05:699][  0]LogAssetRegistry: FAssetRegistry took 0.0292 seconds to start up
+[2018.09.24-11.54.09:141][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.24-11.54.10:643][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.24-11.54.10:794][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.24-11.54.10:794][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.24-11.54.10:811][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.24-11.54.10:812][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.24-11.54.11:148][  0]LogNetVersion: TestingThings 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1511552721)
+[2018.09.24-11.54.15:962][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.104971 seconds
+[2018.09.24-11.54.16:014][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.24-11.54.16:014][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.24-11.54.16:014][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.24-11.54.44:182][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.24-11.54.44:216][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.24-11.54.45:640][  0]SourceControl: Source control is disabled
+[2018.09.24-11.54.45:655][  0]SourceControl: Source control is disabled
+[2018.09.24-11.54.45:779][  0]SourceControl: Source control is disabled
+[2018.09.24-11.54.45:821][  0]SourceControl: Source control is disabled
+[2018.09.24-11.54.47:430][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.24-11.54.47:781][  0]LogOcInput: OculusInput pre-init called
+[2018.09.24-11.54.48:338][  0]LogEngine: Initializing Engine...
+[2018.09.24-11.54.48:365][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.24-11.54.48:378][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2018.09.24-11.54.48:378][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.24-11.54.48:378][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.24-11.54.48:378][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.24-11.54.49:044][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.24-11.54.49:399][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.24-11.54.49:608][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-11.54.49:687][  0]LogInit: FAudioDevice initialized.
+[2018.09.24-11.54.49:687][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.24-11.54.51:514][  0]LogDerivedDataCache: Saved boot cache 1.83s 71MB C:/Users/Computer 2/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.24-11.54.51:527][  0]LogInit: Texture streaming: Enabled
+[2018.09.24-11.54.51:806][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.24-11.54.52:248][  0]LogInit: Transaction tracking system initialized
+[2018.09.24-11.54.55:500][  0]BlueprintLog: New page: Editor Load
+[2018.09.24-11.54.57:212][  0]LocalizationService: Localization service is disabled
+[2018.09.24-11.55.01:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/' took 0.02s
+[2018.09.24-11.55.01:507][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.24-11.55.01:508][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.24-11.55.01:528][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.24-11.55.01:528][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.24-11.55.01:528][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.24-11.55.01:528][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.24-11.55.01:528][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.24-11.55.04:245][  0]SourceControl: Source control is disabled
+[2018.09.24-11.55.04:262][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.24-11.55.04:263][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-11.55.04:263][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.24-11.55.04:332][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.215ms to complete.
+[2018.09.24-11.55.04:332][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.080
+[2018.09.24-11.55.05:604][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-11.55.05:620][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-11.55.05:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-11.55.05:632][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-11.55.05:695][  0]LogCollectionManager: Loaded 0 collections in 0.001407 seconds
+[2018.09.24-11.55.05:807][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/Collections/' took 0.01s
+[2018.09.24-11.55.05:807][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/Developers/Computer2/Collections/' took 0.01s
+[2018.09.24-11.55.05:807][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/Collections/' took 0.01s
+[2018.09.24-11.55.05:807][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.24-11.55.05:815][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2572 classes and 603 folders.
+[2018.09.24-11.55.05:872][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.24-11.55.07:491][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.24-11.55.07:535][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.24-11.55.08:672][  0]LogSlate: Took 0.017916 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.24-11.55.08:715][  0]LogSlate: Took 0.034490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.24-11.55.08:787][  0]LogSlate: Took 0.019522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.24-11.55.09:331][  0]LogRenderer: Reallocating scene render targets to support 1240x504 Format 10 NumSamples 1 (Frame:1).
+[2018.09.24-11.55.10:045][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.24-11.55.10:045][  0]LogLoad: (Engine Initialization) Total time: 108.90 seconds
+[2018.09.24-11.55.10:045][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.24-11.55.10:234][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.24-11.55.10:579][  2]LogAssetRegistry: Asset discovery search completed in 64.9032 seconds
+[2018.09.24-11.55.10:581][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.24-11.55.10:581][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2018.09.24-11.55.10:707][  2]LogSlate: Took 0.016284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.24-11.55.11:247][ 35]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.24-11.55.13:606][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-11.55.14:946][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-11.55.39:200][690]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/UI/PauseMeu.PauseMeu
+[2018.09.24-11.55.40:434][690]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.09.24-11.55.42:321][690]LogSlate: Took 0.016442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.24-11.55.47:681][286]LogSlate: Took 0.065669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.09.24-11.56.20:915][817]LogAIModule: Creating AISystem for world Level1
+[2018.09.24-11.56.20:956][817]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Level1.Level1
+[2018.09.24-11.56.22:287][817]LogSlate: Window 'Save Content' being destroyed
+[2018.09.24-11.56.22:294][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/OptionsMenu" FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/OptionsMenu.uasset" SILENT=true
+[2018.09.24-11.56.22:306][817]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/OptionsMenu56A283084A2E9E5F45EB6EAAEE4B8027.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/OptionsMenu.uasset'
+[2018.09.24-11.56.22:311][817]Cmd: MAP LOAD FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.24-11.56.22:311][817]LightingResults: New page: Lighting Build
+[2018.09.24-11.56.22:393][817]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2018.09.24-11.56.22:393][817]LoadErrors: New page: Loading map: Level1.umap
+[2018.09.24-11.56.22:394][817]MapCheck: New page: Map Check
+[2018.09.24-11.56.22:394][817]LightingResults: New page: Lighting Build
+[2018.09.24-11.56.22:535][817]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.24-11.56.22:590][817]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.24-11.56.24:348][817]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,758.381ms to complete.
+[2018.09.24-11.56.24:351][817]LogFileHelpers: Loading map 'Level1' took 2.041
+[2018.09.24-11.56.26:256][ 14]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-11.56.26:259][ 14]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/MainMenu.MainMenu
+[2018.09.24-11.56.26:281][ 14]Cmd: MAP LOAD FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.24-11.56.26:281][ 14]LightingResults: New page: Lighting Build
+[2018.09.24-11.56.26:282][ 14]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.09.24-11.56.26:283][ 14]MapCheck: New page: Map Check
+[2018.09.24-11.56.26:283][ 14]LightingResults: New page: Lighting Build
+[2018.09.24-11.56.26:367][ 14]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.24-11.56.26:423][ 14]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.24-11.56.26:487][ 14]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.516ms to complete.
+[2018.09.24-11.56.26:490][ 14]LogFileHelpers: Loading map 'MainMenu' took 0.210
+[2018.09.24-11.56.34:403][911]LogSlate: Took 0.029518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.24-11.56.58:752][785]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2018.09.24-11.57.02:873][129]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2018.09.24-11.57.23:950][540]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/UI/OptionsMenu.OptionsMenu
+[2018.09.24-11.57.30:389][273]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.00.21:616][348]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.00.21:642][348]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.00.21:642][348]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.00.21:647][348]LogPlayLevel: [PlayLevel] Compiling OptionsMenu before play...
+[2018.09.24-12.00.21:798][348]LogPlayLevel: [PlayLevel] Compiling PauseMeu before play...
+[2018.09.24-12.00.21:948][348]LogPlayLevel: PlayLevel: Blueprint regeneration took 305 ms (2 blueprints)
+[2018.09.24-12.00.21:961][348]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:00:21 AM)
+[2018.09.24-12.00.21:961][348]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.00.21:962][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001038s)
+[2018.09.24-12.00.21:963][348]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.00.21:963][348]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2018.09.24-12.00.21:963][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001728s)
+[2018.09.24-12.00.21:990][348]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.00.22:000][348]LogInit: FAudioDevice initialized.
+[2018.09.24-12.00.22:006][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.00.22:048][348]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.00.22:049][348]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.00.22
+[2018.09.24-12.00.22:049][348]LogWorld: Bringing up level for play took: 0.000408
+[2018.09.24-12.00.22:062][348]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.00.22:098][348]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.09.24-12.00.22:101][348]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.35
+[2018.09.24-12.00.22:102][348]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.00.22:142][348]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.09.24-12.00.25:061][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.00.29:700][202]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.00.29:700][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.00.29:718][202]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.00.29:748][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.00.29:749][202]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.00.29:803][205]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.09.24-12.00.30:135][245]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.00.30:159][245]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.00.30:159][245]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.00.30:160][245]LogPlayLevel: [PlayLevel] Compiling OptionsMenu before play...
+[2018.09.24-12.00.30:296][245]LogPlayLevel: PlayLevel: Blueprint regeneration took 136 ms (1 blueprints)
+[2018.09.24-12.00.30:296][245]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:00:30 AM)
+[2018.09.24-12.00.30:296][245]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.00.30:297][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000840s)
+[2018.09.24-12.00.30:297][245]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.00.30:297][245]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2018.09.24-12.00.30:297][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001482s)
+[2018.09.24-12.00.30:325][245]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.00.30:334][245]LogInit: FAudioDevice initialized.
+[2018.09.24-12.00.30:340][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.00.30:372][245]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.00.30:373][245]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.00.30
+[2018.09.24-12.00.30:373][245]LogWorld: Bringing up level for play took: 0.000373
+[2018.09.24-12.00.30:385][245]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.00.30:388][245]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.636
+[2018.09.24-12.00.30:388][245]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.00.31:923][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.00.32:008][431]LogNet: Browse: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.00.32:008][431]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.00.33:508][431]LogAIModule: Creating AISystem for world Level1
+[2018.09.24-12.00.33:508][431]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.00.33:514][431]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.24-08.00.33
+[2018.09.24-12.00.33:515][431]LogWorld: Bringing up level for play took: 0.005553
+[2018.09.24-12.00.33:527][431]LogLoad: Took 1.518853 seconds to LoadMap(/Game/FirstPersonBP/Maps/Level1)
+[2018.09.24-12.00.34:628][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.00.35:174][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.00.35:248][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.00.42:471][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.00.42:601][503]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.00.42:605][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.00.42:637][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.00.42:637][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.00.42:693][506]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.09.24-12.00.49:725][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/PauseMeu" FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/PauseMeu.uasset" SILENT=true
+[2018.09.24-12.00.49:780][323]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/PauseMeu4640B25F491BABABCA850F8B22AD5981.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/PauseMeu.uasset'
+[2018.09.24-12.00.59:226][443]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.00.59:250][443]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.00.59:250][443]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.00.59:260][443]LogPlayLevel: [PlayLevel] Compiling PauseMeu before play...
+[2018.09.24-12.00.59:416][443]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (1 blueprints)
+[2018.09.24-12.00.59:416][443]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:00:59 AM)
+[2018.09.24-12.00.59:416][443]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.00.59:417][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000849s)
+[2018.09.24-12.00.59:418][443]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.00.59:418][443]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2018.09.24-12.00.59:418][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001427s)
+[2018.09.24-12.00.59:448][443]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.00.59:458][443]LogInit: FAudioDevice initialized.
+[2018.09.24-12.00.59:463][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.00.59:491][443]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.00.59:492][443]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.00.59
+[2018.09.24-12.00.59:492][443]LogWorld: Bringing up level for play took: 0.000323
+[2018.09.24-12.00.59:504][443]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.00.59:507][443]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu -0.245
+[2018.09.24-12.00.59:507][443]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.01.00:690][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.01.00:781][581]LogNet: Browse: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.01.00:782][581]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.01.01:003][581]LogAIModule: Creating AISystem for world Level1
+[2018.09.24-12.01.01:003][581]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.01.01:009][581]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.24-08.01.01
+[2018.09.24-12.01.01:010][581]LogWorld: Bringing up level for play took: 0.005658
+[2018.09.24-12.01.01:011][581]LogLoad: Took 0.228797 seconds to LoadMap(/Game/FirstPersonBP/Maps/Level1)
+[2018.09.24-12.01.02:031][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.01.03:077][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.01.03:169][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.01.14:714][202]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.01.14:714][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.01.14:732][202]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.01.14:763][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.01.14:763][202]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.01.14:815][205]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.09.24-12.03.47:398][823]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.24-12.05.41:964][309]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.05.41:983][309]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.05.42:032][309]LogBlueprint: Warning: [Compiler PauseMeu] [0740.89] Compile of PauseMeu successful, but with 1 Warning(s) [in 68 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.05.48:666][ 82]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.05.48:683][ 82]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Character' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.05.48:726][ 82]LogBlueprint: Warning: [Compiler PauseMeu] [0747.59] Compile of PauseMeu successful, but with 1 Warning(s) [in 59 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.06.26:467][544]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.06.26:483][544]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Player Controller' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.06.26:525][544]LogBlueprint: Warning: [Compiler PauseMeu] [0785.38] Compile of PauseMeu successful, but with 1 Warning(s) [in 58 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.06.33:140][311]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.06.33:158][311]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Player Controller' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.06.33:202][311]LogBlueprint: Warning: [Compiler PauseMeu] [0792.06] Compile of PauseMeu successful, but with 1 Warning(s) [in 61 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.07.58:551][391]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.07.58:571][391]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Panel Widget' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.07.58:572][391]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.07.58:615][391]LogBlueprint: Warning: [Compiler PauseMeu] [0877.48] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 64 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.40:182][308]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.40:199][308]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.40:199][308]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.40:244][308]LogBlueprint: Warning: [Compiler PauseMeu] [0919.10] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 62 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.40:359][319]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.40:376][319]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.40:377][319]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.40:419][319]LogBlueprint: Warning: [Compiler PauseMeu] [0919.28] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 60 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.40:609][338]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.40:626][338]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.40:626][338]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.40:669][338]LogBlueprint: Warning: [Compiler PauseMeu] [0919.53] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 59 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.40:807][352]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.40:824][352]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.40:825][352]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.40:865][352]LogBlueprint: Warning: [Compiler PauseMeu] [0919.72] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 57 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.41:403][414]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.41:420][414]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.41:421][414]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.41:463][414]LogBlueprint: Warning: [Compiler PauseMeu] [0920.32] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 59 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.41:807][451]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.41:824][451]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.41:825][451]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.41:863][451]LogBlueprint: Warning: [Compiler PauseMeu] [0920.72] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 55 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.42:001][465]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.42:019][465]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.42:019][465]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.42:062][465]LogBlueprint: Warning: [Compiler PauseMeu] [0920.92] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 60 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.42:184][477]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.42:201][477]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.42:201][477]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.42:245][477]LogBlueprint: Warning: [Compiler PauseMeu] [0921.10] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 61 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.42:550][508]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.42:567][508]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.42:568][508]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.42:613][508]LogBlueprint: Warning: [Compiler PauseMeu] [0921.47] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 62 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.42:742][521]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.42:759][521]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.42:760][521]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.42:804][521]LogBlueprint: Warning: [Compiler PauseMeu] [0921.66] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 61 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.42:910][531]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.42:927][531]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.42:927][531]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.42:969][531]LogBlueprint: Warning: [Compiler PauseMeu] [0921.83] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 59 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.43:098][544]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.43:115][544]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.43:116][544]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.43:157][544]LogBlueprint: Warning: [Compiler PauseMeu] [0922.02] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 58 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.43:286][557]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.43:303][557]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.43:304][557]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.43:345][557]LogBlueprint: Warning: [Compiler PauseMeu] [0922.20] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 58 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.43:490][572]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.43:507][572]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.43:508][572]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.43:551][572]LogBlueprint: Warning: [Compiler PauseMeu] [0922.41] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 60 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.44:012][623]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.44:029][623]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.44:029][623]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.44:072][623]LogBlueprint: Warning: [Compiler PauseMeu] [0922.93] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 61 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.44:227][639]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.44:244][639]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.44:244][639]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.44:288][639]LogBlueprint: Warning: [Compiler PauseMeu] [0923.15] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 61 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.44:510][663]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.44:527][663]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.44:527][663]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.44:567][663]LogBlueprint: Warning: [Compiler PauseMeu] [0923.43] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 57 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.44:730][678]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.44:747][678]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.44:748][678]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.44:790][678]LogBlueprint: Warning: [Compiler PauseMeu] [0923.65] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 60 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.45:211][726]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.45:228][726]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.45:228][726]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.45:271][726]LogBlueprint: Warning: [Compiler PauseMeu] [0924.13] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 60 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.45:401][739]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.45:418][739]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.45:418][739]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.45:461][739]LogBlueprint: Warning: [Compiler PauseMeu] [0924.32] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 59 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.45:659][759]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.45:676][759]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.45:677][759]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.45:717][759]LogBlueprint: Warning: [Compiler PauseMeu] [0924.58] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 58 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.45:997][790]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.46:014][790]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.46:014][790]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.46:059][790]LogBlueprint: Warning: [Compiler PauseMeu] [0924.92] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 61 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.08.46:197][804]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.08.46:214][804]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.08.46:214][804]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.08.46:254][804]LogBlueprint: Warning: [Compiler PauseMeu] [0925.11] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 58 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.09.02:854][752]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.09.02:872][752]LogBlueprint: Error: [Compiler PauseMeu] The current value of the ' In Asset Data ' pin is invalid: 'In Asset Data' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.24-12.09.02:872][752]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.09.02:915][752]LogBlueprint: Warning: [Compiler PauseMeu] [0941.77] Compile of PauseMeu failed. 2 Fatal Issue(s) 0 Warning(s) [in 60 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.09.11:270][732]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.09.11:288][732]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.09.11:330][732]LogBlueprint: Warning: [Compiler PauseMeu] [0950.19] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 60 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.10.21:526][ 24]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.10.21:544][ 24]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.10.21:544][ 24]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.10.21:588][ 24]LogBlueprint: Warning: [Compiler PauseMeu] [1020.45] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 61 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.10.23:732][266]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/MainMenu' took 0.024
+[2018.09.24-12.10.23:733][266]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/UI/OptionsMenu] ([1] browsable assets)...
+[2018.09.24-12.10.23:733][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/UI/OptionsMenu]
+[2018.09.24-12.10.23:761][266]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/OptionsMenu_Auto1B0B665F7452908F4B25A5E87F676B830.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/Autosaves/Game/FirstPersonBP/UI/OptionsMenu_Auto1.uasset'
+[2018.09.24-12.10.23:762][266]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/UI/PauseMeu] ([1] browsable assets)...
+[2018.09.24-12.10.23:762][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/UI/PauseMeu]
+[2018.09.24-12.10.23:797][266]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/PauseMeu_Auto1FFD4A00B488B6912ACD3D0B1B6AE7D7C.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/Autosaves/Game/FirstPersonBP/UI/PauseMeu_Auto1.uasset'
+[2018.09.24-12.10.23:798][266]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.09.24-12.10.24:146][306]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.SKEL_MainMenu_C
+[2018.09.24-12.10.24:146][306]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.MainMenu_C
+[2018.09.24-12.10.29:313][844]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.10.29:331][844]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Player Controller' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.10.29:331][844]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.10.29:372][844]LogBlueprint: Warning: [Compiler PauseMeu] [1028.23] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 58 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.13.07:318][436]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.13.07:339][436]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Panel Widget' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.13.07:340][436]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.13.07:388][436]LogBlueprint: Warning: [Compiler PauseMeu] [1186.25] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 69 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.13.24:413][441]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.13.24:431][441]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Player Controller' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.13.24:432][441]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.13.24:479][441]LogBlueprint: Warning: [Compiler PauseMeu] [1203.34] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 65 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.13.49:585][399]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.13.49:603][399]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Player Controller' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.13.49:603][399]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.13.49:649][399]LogBlueprint: Warning: [Compiler PauseMeu] [1228.51] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 63 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.14.02:168][870]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.14.02:186][870]LogBlueprint: Error: [Compiler PauseMeu] The current value of the ' In Asset Data ' pin is invalid: 'In Asset Data' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.24-12.14.02:186][870]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.14.02:227][870]LogBlueprint: Warning: [Compiler PauseMeu] [1241.09] Compile of PauseMeu failed. 2 Fatal Issue(s) 0 Warning(s) [in 59 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.16.31:935][618]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.16.31:953][618]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.16.31:999][618]LogBlueprint: Warning: [Compiler PauseMeu] [1390.86] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 63 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.16.32:455][670]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.16.32:472][670]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.16.32:517][670]LogBlueprint: Warning: [Compiler PauseMeu] [1391.38] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 62 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.16.32:780][699]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.16.32:797][699]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.16.32:843][699]LogBlueprint: Warning: [Compiler PauseMeu] [1391.70] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 62 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.16.32:948][708]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.16.32:966][708]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.16.33:006][708]LogBlueprint: Warning: [Compiler PauseMeu] [1391.87] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 58 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.16.33:347][746]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.16.33:363][746]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.16.33:410][746]LogBlueprint: Warning: [Compiler PauseMeu] [1392.27] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 63 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.16.33:549][760]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.16.33:568][760]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.16.33:613][760]LogBlueprint: Warning: [Compiler PauseMeu] [1392.47] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 64 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.16.34:330][842]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.16.34:349][842]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.16.34:391][842]LogBlueprint: Warning: [Compiler PauseMeu] [1393.25] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 60 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.16.34:489][851]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.16.34:506][851]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.16.34:549][851]LogBlueprint: Warning: [Compiler PauseMeu] [1393.41] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 59 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.16.47:085][312]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.16.47:104][312]LogBlueprint: Error: [Compiler PauseMeu] The current value of the ' In Asset Data ' pin is invalid: 'In Asset Data' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.24-12.16.47:104][312]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.16.47:147][312]LogBlueprint: Warning: [Compiler PauseMeu] [1406.01] Compile of PauseMeu failed. 2 Fatal Issue(s) 0 Warning(s) [in 61 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.17.04:218][313]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UAssetRegistryHelpers::GetAsset' [The specified module could not be found.]
+[2018.09.24-12.17.19:958][172]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.17.19:976][172]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.17.20:023][172]LogBlueprint: Warning: [Compiler PauseMeu] [1438.88] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 64 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.17.39:962][525]LogEditorTransaction: Undo Delete current selection
+[2018.09.24-12.17.55:199][323]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UAssetRegistryHelpers::GetAsset' [Element not found.]
+[2018.09.24-12.17.57:978][642]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.SKEL_MainMenu_C
+[2018.09.24-12.17.57:978][642]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.MainMenu_C
+[2018.09.24-12.18.00:601][945]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.SKEL_MainMenu_C
+[2018.09.24-12.18.00:601][945]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.MainMenu_C
+[2018.09.24-12.18.03:194][228]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.SKEL_MainMenu_C
+[2018.09.24-12.18.03:194][228]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.MainMenu_C
+[2018.09.24-12.18.13:995][503]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.SKEL_MainMenu_C
+[2018.09.24-12.18.13:995][503]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.MainMenu_C
+[2018.09.24-12.19.54:287][298]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.19.54:308][298]LogBlueprint: Warning: [Compiler PauseMeu] 'Options Menu' does not inherit from 'Pawn' ( Cast To OptionsMenu  would always fail).
+[2018.09.24-12.19.54:309][298]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.19.54:359][298]LogBlueprint: Warning: [Compiler PauseMeu] [1593.22] Compile of PauseMeu failed. 1 Fatal Issue(s) 1 Warning(s) [in 71 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.19.57:125][621]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.SKEL_MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.SKEL_MainMenu_C
+[2018.09.24-12.19.57:125][621]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/FirstPersonBP/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/FirstPersonBP/Maps/MainMenu.MainMenu_C
+[2018.09.24-12.20.19:618][278]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.20.19:636][278]LogBlueprint: Error: [Compiler PauseMeu] The current value of the ' In Asset Data ' pin is invalid: 'In Asset Data' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.09.24-12.20.19:637][278]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.20.19:681][278]LogBlueprint: Warning: [Compiler PauseMeu] [1618.54] Compile of PauseMeu failed. 2 Fatal Issue(s) 0 Warning(s) [in 62 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.20.20:801][408]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UAssetRegistryHelpers::GetAsset' [Element not found.]
+[2018.09.24-12.21.03:229][433]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.21.03:247][433]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.21.03:293][433]LogBlueprint: Warning: [Compiler PauseMeu] [1662.15] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 65 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.21.08:517][ 36]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2018.09.24-12.21.10:431][260]BlueprintLog: New page: Compile PauseMeu
+[2018.09.24-12.21.10:449][260]LogBlueprint: Error: [Compiler PauseMeu] The property associated with   Menu?  could not be found in '/Game/FirstPersonBP/UI/PauseMeu.PauseMeu_C'
+[2018.09.24-12.21.10:497][260]LogBlueprint: Warning: [Compiler PauseMeu] [1669.36] Compile of PauseMeu failed. 1 Fatal Issue(s) 0 Warning(s) [in 65 ms] (/Game/FirstPersonBP/UI/PauseMeu.PauseMeu)
+[2018.09.24-12.21.31:470][745]BlueprintLog: New page: Compile OptionsMenu
+[2018.09.24-12.21.34:601][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/OptionsMenu" FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/OptionsMenu.uasset" SILENT=true
+[2018.09.24-12.21.34:632][ 93]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/OptionsMenuD87DC4D0449A8F11D442589534B561AD.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/OptionsMenu.uasset'
+[2018.09.24-12.22.06:789][881]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.22.06:819][881]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.22.06:819][881]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.22.06:833][881]LogPlayLevel: [PlayLevel] Compiling PauseMeu before play...
+[2018.09.24-12.22.06:984][881]LogPlayLevel: PlayLevel: Blueprint regeneration took 165 ms (1 blueprints)
+[2018.09.24-12.22.06:985][881]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:22:06 AM)
+[2018.09.24-12.22.06:985][881]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.22.06:986][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000896s)
+[2018.09.24-12.22.06:986][881]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.22.06:986][881]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2018.09.24-12.22.06:986][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001632s)
+[2018.09.24-12.22.07:015][881]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.22.07:025][881]LogInit: FAudioDevice initialized.
+[2018.09.24-12.22.07:031][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.22.07:064][881]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.22.07:065][881]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.22.07
+[2018.09.24-12.22.07:066][881]LogWorld: Bringing up level for play took: 0.000462
+[2018.09.24-12.22.07:077][881]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.22.07:080][881]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu -0.672
+[2018.09.24-12.22.07:080][881]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.22.08:519][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.22.08:620][ 55]LogNet: Browse: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.22.08:620][ 55]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.22.08:856][ 55]LogAIModule: Creating AISystem for world Level1
+[2018.09.24-12.22.08:857][ 55]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.22.08:862][ 55]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.24-08.22.08
+[2018.09.24-12.22.08:862][ 55]LogWorld: Bringing up level for play took: 0.005342
+[2018.09.24-12.22.08:863][ 55]LogLoad: Took 0.242822 seconds to LoadMap(/Game/FirstPersonBP/Maps/Level1)
+[2018.09.24-12.22.09:881][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.22.10:322][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.22.10:414][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.22.10:925][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.22.11:860][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.22.13:090][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.22.13:364][586]PIE: Warning: The widget 'OptionsMenu_C' was already added to the screen.
+[2018.09.24-12.22.14:461][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.22.14:566][727]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.22.14:572][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.22.14:606][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.22.14:606][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.22.14:657][728]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.09.24-12.23.29:161][457]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.24-12.24.34:185][101]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.24.34:214][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.24.34:214][101]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.24.34:225][101]LogPlayLevel: [PlayLevel] Compiling OptionsMenu before play...
+[2018.09.24-12.24.34:373][101]LogPlayLevel: PlayLevel: Blueprint regeneration took 158 ms (1 blueprints)
+[2018.09.24-12.24.34:373][101]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:24:34 AM)
+[2018.09.24-12.24.34:373][101]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.24.34:374][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000959s)
+[2018.09.24-12.24.34:375][101]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.24.34:375][101]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2018.09.24-12.24.34:375][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001662s)
+[2018.09.24-12.24.34:408][101]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.24.34:417][101]LogInit: FAudioDevice initialized.
+[2018.09.24-12.24.34:423][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.24.34:455][101]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.24.34:456][101]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.24.34
+[2018.09.24-12.24.34:457][101]LogWorld: Bringing up level for play took: 0.000421
+[2018.09.24-12.24.34:468][101]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.24.34:472][101]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.72
+[2018.09.24-12.24.34:472][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.24.36:720][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.24.36:813][372]LogNet: Browse: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.24.36:813][372]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.24.37:078][372]LogAIModule: Creating AISystem for world Level1
+[2018.09.24-12.24.37:078][372]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.24.37:084][372]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.24-08.24.37
+[2018.09.24-12.24.37:084][372]LogWorld: Bringing up level for play took: 0.005297
+[2018.09.24-12.24.37:085][372]LogLoad: Took 0.272184 seconds to LoadMap(/Game/FirstPersonBP/Maps/Level1)
+[2018.09.24-12.24.37:748][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.24.38:423][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.24.38:529][538]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	OptionsMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.OptionsMenu_C_123
+	Function /Game/FirstPersonBP/UI/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu:0000
+[2018.09.24-12.24.38:529][538]PIE: Error: Infinite loop detected. Blueprint:  OptionsMenu Function:  Outputs Call Stack:  Show
+[2018.09.24-12.24.38:530][538]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.24.38:531][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.24.38:549][538]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.24.38:581][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.24.38:581][538]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.24.39:235][538]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.626 s
+[2018.09.24-12.24.39:235][538]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.24-12.24.39:235][538]LogOutputDevice: Error: 
+[2018.09.24-12.24.39:235][538]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2018.09.24-12.24.39:235][538]LogOutputDevice: Error: SObjectWidget for 'OptionsMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.OptionsMenu_C_0' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2018.09.24-12.24.39:235][538]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2018.09.24-12.24.39:235][538]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2018.09.24-12.24.39:235][538]LogOutputDevice: Error: Stack: 
+[2018.09.24-12.24.39:235][538]LogOutputDevice: Error: [Callstack] 0x00007ff9c4f271f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.24-12.24.39:235][538]LogOutputDevice: Error: [Callstack] 0x00007ff9c4c60c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.24-12.24.39:235][538]LogOutputDevice: Error: [Callstack] 0x00007ff9c4c7b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff9c0149a63 UE4Editor-UMG.dll!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff9d079d246 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff9ac0b8959 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff9ac0c297f UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff9cf9a1be7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff9cf963f89 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff9cf9634ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff9ab1d72b1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff9aac282b2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff9ab51f666 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff784ee5cbd UE4Editor.exe!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff784ef5b3c UE4Editor.exe!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff784ef5bba UE4Editor.exe!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff784f03dac UE4Editor.exe!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff784f05aaa UE4Editor.exe!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff9f7a13034 KERNEL32.DLL!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: [Callstack] 0x00007ff9f9ee1461 ntdll.dll!UnknownFunction []
+[2018.09.24-12.24.39:236][538]LogOutputDevice: Error: 
+[2018.09.24-12.24.39:242][538]LogStats:                SubmitErrorReport -  0.000 s
+[2018.09.24-12.24.48:401][538]LogStats:                    SendNewReport -  9.160 s
+[2018.09.24-12.24.48:401][538]LogStats:             FDebug::EnsureFailed -  9.792 s
+[2018.09.24-12.24.48:450][539]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.09.24-12.24.58:573][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.24.58:596][ 82]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.24.58:596][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.24-12.24.58:596][ 82]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:24:58 AM)
+[2018.09.24-12.24.58:596][ 82]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.24.58:597][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000918s)
+[2018.09.24-12.24.58:598][ 82]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.24.58:598][ 82]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2018.09.24-12.24.58:598][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001590s)
+[2018.09.24-12.24.58:626][ 82]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.24.58:635][ 82]LogInit: FAudioDevice initialized.
+[2018.09.24-12.24.58:665][ 82]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.24.58:667][ 82]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.24.58
+[2018.09.24-12.24.58:667][ 82]LogWorld: Bringing up level for play took: 0.000358
+[2018.09.24-12.24.58:680][ 82]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.928
+[2018.09.24-12.24.58:681][ 82]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.24.59:552][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.24.59:644][195]LogNet: Browse: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.24.59:644][195]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.24.59:907][195]LogAIModule: Creating AISystem for world Level1
+[2018.09.24-12.24.59:907][195]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.24.59:914][195]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.24-08.24.59
+[2018.09.24-12.24.59:914][195]LogWorld: Bringing up level for play took: 0.006088
+[2018.09.24-12.24.59:915][195]LogLoad: Took 0.270205 seconds to LoadMap(/Game/FirstPersonBP/Maps/Level1)
+[2018.09.24-12.25.01:058][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.25.01:757][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.25.01:851][423]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	OptionsMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.OptionsMenu_C_123
+	Function /Game/FirstPersonBP/UI/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu:0000
+[2018.09.24-12.25.01:851][423]PIE: Error: Infinite loop detected. Blueprint:  OptionsMenu Function:  Outputs Call Stack:  Show
+[2018.09.24-12.25.01:852][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.25.01:853][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.25.01:883][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.25.01:884][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.25.01:913][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.25.01:938][425]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.09.24-12.25.58:372][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.25.58:394][ 79]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.25.58:394][ 79]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.25.58:404][ 79]LogPlayLevel: [PlayLevel] Compiling OptionsMenu before play...
+[2018.09.24-12.25.58:548][ 79]LogPlayLevel: PlayLevel: Blueprint regeneration took 153 ms (1 blueprints)
+[2018.09.24-12.25.58:548][ 79]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:25:58 AM)
+[2018.09.24-12.25.58:548][ 79]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.25.58:549][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000828s)
+[2018.09.24-12.25.58:550][ 79]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.25.58:550][ 79]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2018.09.24-12.25.58:550][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001664s)
+[2018.09.24-12.25.58:575][ 79]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.25.58:584][ 79]LogInit: FAudioDevice initialized.
+[2018.09.24-12.25.58:590][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.25.58:623][ 79]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.25.58:624][ 79]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.25.58
+[2018.09.24-12.25.58:624][ 79]LogWorld: Bringing up level for play took: 0.000421
+[2018.09.24-12.25.58:637][ 79]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.25.58:640][ 79]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.888
+[2018.09.24-12.25.58:641][ 79]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.26.00:499][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.00:559][301]LogNet: Browse: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.26.00:559][301]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.26.00:805][301]LogAIModule: Creating AISystem for world Level1
+[2018.09.24-12.26.00:806][301]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.26.00:811][301]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.24-08.26.00
+[2018.09.24-12.26.00:812][301]LogWorld: Bringing up level for play took: 0.005370
+[2018.09.24-12.26.00:813][301]LogLoad: Took 0.253465 seconds to LoadMap(/Game/FirstPersonBP/Maps/Level1)
+[2018.09.24-12.26.01:081][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.26.01:539][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.02:469][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.03:239][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.03:297][594]PIE: Warning: The widget 'PauseMeu_C' was already added to the screen.
+[2018.09.24-12.26.03:431][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.03:464][614]PIE: Warning: The widget 'PauseMeu_C' was already added to the screen.
+[2018.09.24-12.26.03:589][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.03:631][634]PIE: Warning: The widget 'PauseMeu_C' was already added to the screen.
+[2018.09.24-12.26.03:797][654]PIE: Warning: The widget 'PauseMeu_C' was already added to the screen.
+[2018.09.24-12.26.03:998][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.04:057][685]PIE: Warning: The widget 'PauseMeu_C' was already added to the screen.
+[2018.09.24-12.26.04:148][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.04:207][702]PIE: Warning: The widget 'PauseMeu_C' was already added to the screen.
+[2018.09.24-12.26.04:499][737]PIE: Warning: The widget 'PauseMeu_C' was already added to the screen.
+[2018.09.24-12.26.04:574][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.04:824][776]PIE: Warning: The widget 'PauseMeu_C' was already added to the screen.
+[2018.09.24-12.26.04:982][795]PIE: Warning: The widget 'PauseMeu_C' was already added to the screen.
+[2018.09.24-12.26.05:090][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.05:159][815]PIE: Warning: The widget 'PauseMeu_C' was already added to the screen.
+[2018.09.24-12.26.05:335][836]PIE: Warning: The widget 'PauseMeu_C' was already added to the screen.
+[2018.09.24-12.26.06:060][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.06:143][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.26.06:144][933]LogNet: Browse: /Game/FirstPersonBP/Maps/MainMenu
+[2018.09.24-12.26.06:144][933]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/MainMenu
+[2018.09.24-12.26.06:172][933]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.26.06:173][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000881s)
+[2018.09.24-12.26.06:174][933]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.26.06:174][933]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2018.09.24-12.26.06:174][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001620s)
+[2018.09.24-12.26.06:174][933]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.26.06:177][933]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.26.06
+[2018.09.24-12.26.06:177][933]LogWorld: Bringing up level for play took: 0.002878
+[2018.09.24-12.26.06:178][933]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.26.06:180][933]LogLoad: Took 0.036098 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu)
+[2018.09.24-12.26.06:952][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.08:434][197]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.26.08:442][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.26.08:470][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.26.08:471][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.26.08:524][199]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.09.24-12.26.30:094][693]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.24-12.26.31:800][890]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.26.31:833][890]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.26.31:834][890]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.26.31:837][890]LogPlayLevel: [PlayLevel] Compiling OptionsMenu before play...
+[2018.09.24-12.26.32:021][890]LogPlayLevel: PlayLevel: Blueprint regeneration took 187 ms (1 blueprints)
+[2018.09.24-12.26.32:021][890]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:26:32 AM)
+[2018.09.24-12.26.32:021][890]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.26.32:022][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001121s)
+[2018.09.24-12.26.32:023][890]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.26.32:023][890]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2018.09.24-12.26.32:023][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001787s)
+[2018.09.24-12.26.32:052][890]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.26.32:062][890]LogInit: FAudioDevice initialized.
+[2018.09.24-12.26.32:067][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.26.32:095][890]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.26.32:096][890]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.26.32
+[2018.09.24-12.26.32:096][890]LogWorld: Bringing up level for play took: 0.000337
+[2018.09.24-12.26.32:108][890]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.26.32:112][890]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.36
+[2018.09.24-12.26.32:112][890]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.26.33:949][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.34:050][106]LogNet: Browse: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.26.34:050][106]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.26.34:300][106]LogAIModule: Creating AISystem for world Level1
+[2018.09.24-12.26.34:300][106]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.26.34:307][106]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.24-08.26.34
+[2018.09.24-12.26.34:307][106]LogWorld: Bringing up level for play took: 0.006291
+[2018.09.24-12.26.34:308][106]LogLoad: Took 0.258131 seconds to LoadMap(/Game/FirstPersonBP/Maps/Level1)
+[2018.09.24-12.26.34:971][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.26.35:905][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.37:669][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.26.37:767][502]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.26.37:771][502]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.26.37:801][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.26.37:802][502]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.26.37:857][505]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.09.24-12.26.45:992][469]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.24-12.27.45:821][569]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/MainMenu' took 0.026
+[2018.09.24-12.27.45:823][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/UI/OptionsMenu] ([1] browsable assets)...
+[2018.09.24-12.27.45:823][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/UI/OptionsMenu]
+[2018.09.24-12.27.45:852][569]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/OptionsMenu_Auto240F2718B4F69B53B5B74F8AC6CB2275E.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/Autosaves/Game/FirstPersonBP/UI/OptionsMenu_Auto2.uasset'
+[2018.09.24-12.27.45:854][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/UI/PauseMeu] ([1] browsable assets)...
+[2018.09.24-12.27.45:854][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/UI/PauseMeu]
+[2018.09.24-12.27.45:887][569]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/PauseMeu_Auto26598CCFD4F4A5CCFADFB99ADC9A13FD5.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/Autosaves/Game/FirstPersonBP/UI/PauseMeu_Auto2.uasset'
+[2018.09.24-12.27.45:888][569]LogFileHelpers: Auto-saving content packages took 0.067
+[2018.09.24-12.28.40:602][ 71]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.24-12.28.47:341][868]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.24-12.28.48:170][967]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.28.48:194][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.28.48:194][967]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.28.48:198][967]LogPlayLevel: [PlayLevel] Compiling OptionsMenu before play...
+[2018.09.24-12.28.48:388][967]LogPlayLevel: PlayLevel: Blueprint regeneration took 194 ms (1 blueprints)
+[2018.09.24-12.28.48:388][967]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:28:48 AM)
+[2018.09.24-12.28.48:388][967]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.28.48:389][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000899s)
+[2018.09.24-12.28.48:390][967]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.28.48:390][967]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2018.09.24-12.28.48:390][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001683s)
+[2018.09.24-12.28.48:421][967]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.28.48:430][967]LogInit: FAudioDevice initialized.
+[2018.09.24-12.28.48:436][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.28.48:469][967]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.28.48:470][967]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.28.48
+[2018.09.24-12.28.48:470][967]LogWorld: Bringing up level for play took: 0.000474
+[2018.09.24-12.28.48:483][967]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.28.48:488][967]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.735
+[2018.09.24-12.28.48:488][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.28.49:734][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.28.49:818][110]LogNet: Browse: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.28.49:818][110]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.28.50:076][110]LogAIModule: Creating AISystem for world Level1
+[2018.09.24-12.28.50:076][110]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.28.50:084][110]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.24-08.28.50
+[2018.09.24-12.28.50:084][110]LogWorld: Bringing up level for play took: 0.006352
+[2018.09.24-12.28.50:085][110]LogLoad: Took 0.266599 seconds to LoadMap(/Game/FirstPersonBP/Maps/Level1)
+[2018.09.24-12.28.51:166][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.28.51:633][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.28.52:917][435]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.28.52:917][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.28.52:935][435]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.28.52:967][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.28.52:967][435]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.28.53:022][438]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.09.24-12.29.12:768][724]LogSlate: Window 'Color Picker' being destroyed
+[2018.09.24-12.29.34:806][311]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.29.34:830][311]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.29.34:830][311]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.29.34:838][311]LogPlayLevel: [PlayLevel] Compiling OptionsMenu before play...
+[2018.09.24-12.29.34:983][311]LogPlayLevel: PlayLevel: Blueprint regeneration took 152 ms (1 blueprints)
+[2018.09.24-12.29.34:983][311]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:29:34 AM)
+[2018.09.24-12.29.34:983][311]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.29.34:984][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000867s)
+[2018.09.24-12.29.34:984][311]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.29.34:985][311]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2018.09.24-12.29.34:985][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001539s)
+[2018.09.24-12.29.35:012][311]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.29.35:021][311]LogInit: FAudioDevice initialized.
+[2018.09.24-12.29.35:027][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.29.35:058][311]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.29.35:059][311]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.29.35
+[2018.09.24-12.29.35:059][311]LogWorld: Bringing up level for play took: 0.000333
+[2018.09.24-12.29.35:072][311]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.29.35:075][311]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu -0.677
+[2018.09.24-12.29.35:075][311]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.29.35:897][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.29.35:897][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.29.35:915][400]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.29.35:943][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.29.35:943][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.29.36:002][404]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.09.24-12.29.46:046][571]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.29.46:068][571]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.29.46:068][571]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.29.46:071][571]LogPlayLevel: [PlayLevel] Compiling OptionsMenu before play...
+[2018.09.24-12.29.46:215][571]LogPlayLevel: PlayLevel: Blueprint regeneration took 147 ms (1 blueprints)
+[2018.09.24-12.29.46:215][571]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:29:46 AM)
+[2018.09.24-12.29.46:215][571]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.29.46:216][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000875s)
+[2018.09.24-12.29.46:217][571]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.29.46:217][571]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2018.09.24-12.29.46:217][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001639s)
+[2018.09.24-12.29.46:240][571]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.29.46:249][571]LogInit: FAudioDevice initialized.
+[2018.09.24-12.29.46:255][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.29.46:287][571]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.29.46:288][571]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.29.46
+[2018.09.24-12.29.46:288][571]LogWorld: Bringing up level for play took: 0.000307
+[2018.09.24-12.29.46:300][571]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.29.46:303][571]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.551
+[2018.09.24-12.29.46:303][571]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.29.47:324][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.29.47:384][693]LogNet: Browse: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.29.47:384][693]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.29.47:622][693]LogAIModule: Creating AISystem for world Level1
+[2018.09.24-12.29.47:622][693]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.29.47:628][693]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.24-08.29.47
+[2018.09.24-12.29.47:629][693]LogWorld: Bringing up level for play took: 0.005712
+[2018.09.24-12.29.47:629][693]LogLoad: Took 0.245532 seconds to LoadMap(/Game/FirstPersonBP/Maps/Level1)
+[2018.09.24-12.29.47:981][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.29.49:001][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.29.49:763][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.29.49:863][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.29.50:472][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.29.50:934][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.29.51:000][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.29.51:367][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.29.51:443][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.29.52:581][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.29.53:033][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.29.54:236][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.29.54:327][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.29.55:104][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.29.55:179][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.29.55:180][582]LogNet: Browse: /Game/FirstPersonBP/Maps/MainMenu
+[2018.09.24-12.29.55:180][582]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/MainMenu
+[2018.09.24-12.29.55:207][582]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.29.55:208][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000818s)
+[2018.09.24-12.29.55:209][582]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.29.55:209][582]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2018.09.24-12.29.55:209][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001583s)
+[2018.09.24-12.29.55:209][582]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.29.55:211][582]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.29.55
+[2018.09.24-12.29.55:211][582]LogWorld: Bringing up level for play took: 0.000414
+[2018.09.24-12.29.55:211][582]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.29.55:213][582]LogLoad: Took 0.032791 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu)
+[2018.09.24-12.29.56:046][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.29.58:188][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.29.59:339][ 70]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.29.59:345][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.29.59:373][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.29.59:374][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.29.59:427][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.09.24-12.30.01:344][300]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.30.01:366][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.30.01:366][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.24-12.30.01:366][300]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:30:01 AM)
+[2018.09.24-12.30.01:366][300]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.30.01:367][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000848s)
+[2018.09.24-12.30.01:368][300]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.30.01:368][300]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2018.09.24-12.30.01:368][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001486s)
+[2018.09.24-12.30.01:394][300]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.30.01:403][300]LogInit: FAudioDevice initialized.
+[2018.09.24-12.30.01:409][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.30.01:440][300]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.30.01:441][300]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.30.01
+[2018.09.24-12.30.01:441][300]LogWorld: Bringing up level for play took: 0.000350
+[2018.09.24-12.30.01:452][300]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.30.01:455][300]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu -0.297
+[2018.09.24-12.30.01:456][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.30.04:147][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.30.04:212][621]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.30.04:217][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.30.04:247][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.30.04:248][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.30.04:301][623]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.09.24-12.30.07:078][949]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/UI/MainMenu.MainMenu
+[2018.09.24-12.30.23:503][841]LogEditorTransaction: Undo Delete current selection
+[2018.09.24-12.30.26:221][156]LogEditorTransaction: Undo Paste clipboard contents
+[2018.09.24-12.31.19:740][470]BlueprintLog: New page: Compile MainMenu
+[2018.09.24-12.31.20:472][547]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.31.20:497][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.20:497][547]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.31.20:507][547]LogPlayLevel: [PlayLevel] Compiling OptionsMenu before play...
+[2018.09.24-12.31.20:658][547]LogPlayLevel: PlayLevel: Blueprint regeneration took 160 ms (1 blueprints)
+[2018.09.24-12.31.20:658][547]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:31:20 AM)
+[2018.09.24-12.31.20:658][547]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.31.20:659][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001079s)
+[2018.09.24-12.31.20:660][547]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.31.20:660][547]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2018.09.24-12.31.20:660][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001928s)
+[2018.09.24-12.31.20:690][547]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.31.20:699][547]LogInit: FAudioDevice initialized.
+[2018.09.24-12.31.20:705][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.31.20:736][547]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.31.20:737][547]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.31.20
+[2018.09.24-12.31.20:737][547]LogWorld: Bringing up level for play took: 0.000343
+[2018.09.24-12.31.20:749][547]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.31.20:753][547]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 1.001
+[2018.09.24-12.31.20:753][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.23:629][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.31.23:687][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.31.25:935][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.31.27:580][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.31.27:647][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.31.30:105][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.31.30:219][646]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.31.30:225][646]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.30:253][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.31.30:253][646]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.30:309][648]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.09.24-12.31.31:370][773]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.24-12.31.33:531][ 23]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.31.33:555][ 23]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.33:555][ 23]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.31.33:560][ 23]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2018.09.24-12.31.33:701][ 23]LogPlayLevel: PlayLevel: Blueprint regeneration took 145 ms (1 blueprints)
+[2018.09.24-12.31.33:701][ 23]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:31:33 AM)
+[2018.09.24-12.31.33:701][ 23]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.31.33:702][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000876s)
+[2018.09.24-12.31.33:702][ 23]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.31.33:702][ 23]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.09.24-12.31.33:703][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001630s)
+[2018.09.24-12.31.33:732][ 23]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.31.33:741][ 23]LogInit: FAudioDevice initialized.
+[2018.09.24-12.31.33:746][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.31.33:778][ 23]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.31.33:779][ 23]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.31.33
+[2018.09.24-12.31.33:779][ 23]LogWorld: Bringing up level for play took: 0.000421
+[2018.09.24-12.31.33:791][ 23]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.31.33:794][ 23]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.042
+[2018.09.24-12.31.33:794][ 23]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.34:811][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.31.34:894][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.31.34:895][147]LogScript: Warning: Accessed None trying to read property Options
+	MainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_13.MainMenu_C_0
+	Function /Game/FirstPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:0017
+[2018.09.24-12.31.34:895][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Options". Blueprint:  MainMenu Function:  Execute Ubergraph Main Menu Graph:  EventGraph Node:  Add to Viewport
+[2018.09.24-12.31.36:957][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.31.37:046][400]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.31.37:052][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.37:083][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.31.37:083][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.37:134][401]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.09.24-12.31.38:143][518]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.24-12.31.42:682][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.31.42:708][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.42:708][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.24-12.31.42:708][ 53]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:31:42 AM)
+[2018.09.24-12.31.42:708][ 53]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.31.42:709][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000827s)
+[2018.09.24-12.31.42:709][ 53]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.31.42:709][ 53]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2018.09.24-12.31.42:709][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001443s)
+[2018.09.24-12.31.42:739][ 53]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.31.42:748][ 53]LogInit: FAudioDevice initialized.
+[2018.09.24-12.31.42:753][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.31.42:808][ 53]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.31.42:808][ 53]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.31.42
+[2018.09.24-12.31.42:809][ 53]LogWorld: Bringing up level for play took: 0.000384
+[2018.09.24-12.31.42:820][ 53]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.31.42:824][ 53]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 1.071
+[2018.09.24-12.31.42:824][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.43:715][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.31.43:782][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.31.43:782][164]LogScript: Warning: Accessed None trying to read property Options
+	MainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_14.MainMenu_C_0
+	Function /Game/FirstPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:0017
+[2018.09.24-12.31.43:783][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Options". Blueprint:  MainMenu Function:  Execute Ubergraph Main Menu Graph:  EventGraph Node:  Add to Viewport
+[2018.09.24-12.31.44:766][279]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.31.44:771][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.44:802][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.31.44:802][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.44:863][280]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.09.24-12.31.50:859][990]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.31.50:884][990]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.50:884][990]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.31.50:889][990]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2018.09.24-12.31.51:028][990]LogPlayLevel: PlayLevel: Blueprint regeneration took 143 ms (1 blueprints)
+[2018.09.24-12.31.51:028][990]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:31:51 AM)
+[2018.09.24-12.31.51:028][990]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.31.51:029][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000863s)
+[2018.09.24-12.31.51:030][990]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.31.51:030][990]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2018.09.24-12.31.51:030][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001543s)
+[2018.09.24-12.31.51:057][990]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.31.51:066][990]LogInit: FAudioDevice initialized.
+[2018.09.24-12.31.51:072][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.31.51:103][990]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.31.51:104][990]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.31.51
+[2018.09.24-12.31.51:104][990]LogWorld: Bringing up level for play took: 0.000335
+[2018.09.24-12.31.51:117][990]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.31.51:120][990]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu -0.632
+[2018.09.24-12.31.51:120][990]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.51:896][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.31.51:984][ 82]LogScript: Warning: Accessed None trying to read property Options
+	MainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_15.MainMenu_C_0
+	Function /Game/FirstPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:0017
+[2018.09.24-12.31.51:984][ 82]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Options". Blueprint:  MainMenu Function:  Execute Ubergraph Main Menu Graph:  EventGraph Node:  Add to Viewport
+[2018.09.24-12.31.52:534][148]LogScript: Warning: Accessed None trying to read property Options
+	MainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_15.MainMenu_C_0
+	Function /Game/FirstPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:0017
+[2018.09.24-12.31.52:534][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Options". Blueprint:  MainMenu Function:  Execute Ubergraph Main Menu Graph:  EventGraph Node:  Add to Viewport
+[2018.09.24-12.31.53:102][215]LogScript: Warning: Accessed None trying to read property Options
+	MainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_15.MainMenu_C_0
+	Function /Game/FirstPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:0017
+[2018.09.24-12.31.53:102][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Options". Blueprint:  MainMenu Function:  Execute Ubergraph Main Menu Graph:  EventGraph Node:  Add to Viewport
+[2018.09.24-12.31.53:261][234]LogScript: Warning: Accessed None trying to read property Options
+	MainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_15.MainMenu_C_0
+	Function /Game/FirstPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:0017
+[2018.09.24-12.31.53:261][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Options". Blueprint:  MainMenu Function:  Execute Ubergraph Main Menu Graph:  EventGraph Node:  Add to Viewport
+[2018.09.24-12.31.53:427][254]LogScript: Warning: Accessed None trying to read property Options
+	MainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_15.MainMenu_C_0
+	Function /Game/FirstPersonBP/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:0017
+[2018.09.24-12.31.53:427][254]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Options". Blueprint:  MainMenu Function:  Execute Ubergraph Main Menu Graph:  EventGraph Node:  Add to Viewport
+[2018.09.24-12.31.54:037][324]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.31.54:043][324]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.54:071][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.31.54:072][324]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.31.54:123][325]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.09.24-12.32.17:247][917]LogSlate: Window 'Delete Variable' being destroyed
+[2018.09.24-12.32.37:859][340]BlueprintLog: New page: Compile MainMenu
+[2018.09.24-12.32.38:619][411]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.32.38:644][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.32.38:644][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.24-12.32.38:644][411]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:32:38 AM)
+[2018.09.24-12.32.38:644][411]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.32.38:645][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000825s)
+[2018.09.24-12.32.38:645][411]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.32.38:646][411]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2018.09.24-12.32.38:646][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001444s)
+[2018.09.24-12.32.38:673][411]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.32.38:684][411]LogInit: FAudioDevice initialized.
+[2018.09.24-12.32.38:690][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.32.38:719][411]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.32.38:720][411]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.32.38
+[2018.09.24-12.32.38:721][411]LogWorld: Bringing up level for play took: 0.000424
+[2018.09.24-12.32.38:733][411]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.32.38:737][411]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.985
+[2018.09.24-12.32.38:737][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.32.39:814][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.32.41:450][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.32.41:901][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.32.47:232][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.32.49:237][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.32.49:305][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.32.50:134][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.32.50:185][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.32.50:186][762]LogNet: Browse: /Game/FirstPersonBP/Maps/MainMenu
+[2018.09.24-12.32.50:186][762]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/MainMenu
+[2018.09.24-12.32.50:215][762]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.32.50:216][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000896s)
+[2018.09.24-12.32.50:217][762]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.32.50:217][762]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2018.09.24-12.32.50:217][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001612s)
+[2018.09.24-12.32.50:217][762]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.32.50:218][762]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.32.50
+[2018.09.24-12.32.50:218][762]LogWorld: Bringing up level for play took: 0.000250
+[2018.09.24-12.32.50:218][762]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.32.50:220][762]LogLoad: Took 0.034367 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu)
+[2018.09.24-12.32.51:239][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.32.53:279][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.32.53:379][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.32.56:409][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.32.56:540][507]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.32.56:546][507]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.32.56:579][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.32.56:579][507]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.32.56:629][509]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.09.24-12.33.17:366][953]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.33.17:390][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.33.17:391][953]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.24-12.33.17:395][953]LogPlayLevel: [PlayLevel] Compiling OptionsMenu before play...
+[2018.09.24-12.33.17:543][953]LogPlayLevel: PlayLevel: Blueprint regeneration took 152 ms (1 blueprints)
+[2018.09.24-12.33.17:543][953]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:33:17 AM)
+[2018.09.24-12.33.17:543][953]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.33.17:544][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000789s)
+[2018.09.24-12.33.17:545][953]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.33.17:545][953]LogPlayLevel: PIE: World Init took: (0.000484s)
+[2018.09.24-12.33.17:545][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001349s)
+[2018.09.24-12.33.17:571][953]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.33.17:580][953]LogInit: FAudioDevice initialized.
+[2018.09.24-12.33.17:587][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.33.17:621][953]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.33.17:623][953]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.33.17
+[2018.09.24-12.33.17:623][953]LogWorld: Bringing up level for play took: 0.000324
+[2018.09.24-12.33.17:634][953]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.33.17:637][953]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu -0.114
+[2018.09.24-12.33.17:637][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.33.18:882][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.33.20:065][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.33.23:389][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.33.23:511][556]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2018.09.24-12.33.24:086][624]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2018.09.24-12.33.24:228][641]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2018.09.24-12.33.25:277][756]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.33.25:282][756]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.33.25:315][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.33.25:315][756]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.33.25:371][758]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.09.24-12.33.52:016][848]BlueprintLog: New page: Compile OptionsMenu
+[2018.09.24-12.33.52:759][914]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.24-12.33.52:783][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.33.52:783][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.24-12.33.52:783][914]PIE: New page: PIE session: MainMenu (Sep 24, 2018, 4:33:52 AM)
+[2018.09.24-12.33.52:783][914]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.09.24-12.33.52:784][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000824s)
+[2018.09.24-12.33.52:784][914]LogAIModule: Creating AISystem for world MainMenu
+[2018.09.24-12.33.52:784][914]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2018.09.24-12.33.52:785][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001456s)
+[2018.09.24-12.33.52:813][914]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.24-12.33.52:823][914]LogInit: FAudioDevice initialized.
+[2018.09.24-12.33.52:829][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.33.52:862][914]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.33.52:864][914]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.09.24-08.33.52
+[2018.09.24-12.33.52:864][914]LogWorld: Bringing up level for play took: 0.000529
+[2018.09.24-12.33.52:876][914]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.09.24-12.33.52:879][914]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu -0.873
+[2018.09.24-12.33.52:880][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.33.53:807][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.33.54:885][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.33.56:611][346]LogNet: Browse: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.33.56:611][346]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Level1
+[2018.09.24-12.33.56:885][346]LogAIModule: Creating AISystem for world Level1
+[2018.09.24-12.33.56:885][346]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.24-12.33.56:892][346]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.09.24-08.33.56
+[2018.09.24-12.33.56:892][346]LogWorld: Bringing up level for play took: 0.006014
+[2018.09.24-12.33.56:893][346]LogLoad: Took 0.281444 seconds to LoadMap(/Game/FirstPersonBP/Maps/Level1)
+[2018.09.24-12.33.57:714][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.24-12.33.58:584][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.33.59:150][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-12.34.00:527][774]LogSlate: Window 'TestingThings Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.24-12.34.00:532][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.34.00:563][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.24-12.34.00:563][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.09.24-12.34.00:621][776]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.09.24-12.34.09:658][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/PauseMeu" FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/PauseMeu.uasset" SILENT=true
+[2018.09.24-12.34.09:698][845]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/PauseMeuFC616A10476A727F6BC3ABB09C206685.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/PauseMeu.uasset'
+[2018.09.24-12.34.10:921][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/OptionsMenu" FILE="../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/OptionsMenu.uasset" SILENT=true
+[2018.09.24-12.34.10:995][988]LogSavePackage: Moving '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Saved/OptionsMenu24583EB3448D7C2DD5ADAA9D76D74C92.tmp' to '../../../../../../Users/Computer 2/Documents/Unreal Projects/TestingThings/Content/FirstPersonBP/UI/OptionsMenu.uasset'
+[2018.09.24-12.35.02:888][ 26]LogEditorTransaction: Undo Move Widget
+[2018.09.24-12.35.02:995][ 26]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.106 s
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: 
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: 
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: Stack: 
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9c4f271f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9c4c60c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9c4c7b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9ac7af1e8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9aac54c25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9aac801fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9aac66535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9aacd2dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9aad19b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9aacac81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9a9fc05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9cdbd24df UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9cdc1437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9ab503a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9ab4f1a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9cdb970ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9cdc1606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9cdc09846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9d0aace45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9d0aa0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9d0aaf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9d0a9c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9f7856cc1 USER32.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9f7856693 USER32.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9d0ab0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff784ee54e5 UE4Editor.exe!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff784ef5b3c UE4Editor.exe!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff784ef5bba UE4Editor.exe!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff784f03dac UE4Editor.exe!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff784f05aaa UE4Editor.exe!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9f7a13034 KERNEL32.DLL!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9f9ee1461 ntdll.dll!UnknownFunction []
+[2018.09.24-12.35.02:995][ 26]LogOutputDevice: Error: 
+[2018.09.24-12.35.03:002][ 26]LogStats:                SubmitErrorReport -  0.000 s
